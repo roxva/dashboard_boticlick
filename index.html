@@ -372,6 +372,7 @@
     .source-controls{align-items:flex-start;}
   }
 </style>
+<link rel="stylesheet" href="marketing.css">
 <style>
 .growth{margin:22px 0;scroll-margin-top:80px}.growth h2{font:700 25px var(--font-display);margin:0 0 8px}.growth h3{font:700 18px var(--font-display);margin:0 0 10px}.growth .g-note{color:var(--muted);font-size:12px;line-height:1.6;margin:8px 0 14px}.g-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.g-stat{padding:15px;background:var(--surface-2);border-radius:10px;border:1px solid var(--border)}.g-stat strong{display:block;color:var(--gold);font:700 23px var(--font-mono);margin:6px 0;overflow-wrap:anywhere}.g-stat small{color:var(--muted);line-height:1.5}.growth details{border:1px solid var(--border);background:var(--surface);border-radius:14px;margin:14px 0;padding:18px}.growth summary{cursor:pointer;font:700 18px var(--font-display)}.g-controls{display:flex;flex-wrap:wrap;align-items:end;gap:12px;margin:18px 0}.g-controls label{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:7px;min-width:130px;flex:1}.growth input,.growth select{width:100%;box-sizing:border-box;min-height:39px;background:var(--surface-2);color:var(--text);border:1px solid var(--border);border-radius:7px;padding:8px;font:13px var(--font-body)}.growth input:focus,.growth select:focus{outline:2px solid var(--gold)}.g-scroll{overflow-x:auto}.growth table{width:100%;border-collapse:collapse;min-width:670px;font-size:12px}.growth th{color:var(--muted);text-align:left;font-weight:500}.growth td,.growth th{padding:12px 10px;border-bottom:1px solid var(--border);line-height:1.45}.growth td small{display:block;color:var(--muted)}.g-combo-line{display:grid;grid-template-columns:1fr 100px 85px;gap:8px;margin:10px 0}.g-actions p{line-height:1.55;font-size:13px}.g-actions strong{color:var(--gold)}.g-empty{padding:18px;color:var(--muted);line-height:1.6}.g-meter{height:8px;background:var(--border);border-radius:8px;overflow:hidden;margin:12px 0}.g-meter i{height:100%;background:var(--gold);display:block}.g-alert{color:var(--wine)}@media(max-width:700px){.g-grid{grid-template-columns:1fr}.growth details{padding:14px}.g-combo-line{grid-template-columns:1fr 65px 65px}.growth h2{font-size:23px}.g-controls label{min-width:120px}.growth summary{font-size:16px}}
 </style>
@@ -981,6 +982,7 @@
     <a href="#seccion-reposicion">Reposición</a>
     <a href="#seccion-salud">Salud del inventario</a>
     <a href="#seccion-rentabilidad">Rentabilidad</a>
+    <a href="#seccion-marketing">Marketing</a>
   </nav>
 
   <section id="seccion-resumen">
@@ -1765,6 +1767,8 @@
     </div>
 
   </section>
+
+  <section id="seccion-marketing" class="rc mk"></section>
 
   <div class="guide">
     <details>
@@ -8986,5 +8990,6 @@ renderAll = function(...a){ const o = orig.apply(this, a); schedule(); return o;
 schedule();
 })();
 </script>
+<script src="marketing.js" defer></script>
 </body>
 </html>

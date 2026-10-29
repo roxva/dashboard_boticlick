@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generado": "2026-10-29T14:38:45Z",
+  "generado": "2026-10-29T18:17:32Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
       "usuario": "boticlick.cl",
-      "seguidores": 1054
+      "seguidores": 1057
     },
     "ventana_dias": 90,
     "publicaciones": [
@@ -17,7 +17,7 @@
         "permalink": "https://www.instagram.com/reel/DfAwY0izpIL/",
         "imagen": "media/p_aade23287b6bdc22.webp",
         "alcance": 1267,
-        "visualizaciones": 1516,
+        "visualizaciones": 1518,
         "me_gusta": 17,
         "comentarios": 1,
         "compartidos": 1,
@@ -126,13 +126,13 @@
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 696413,
-        "visualizaciones": 804646,
-        "me_gusta": 79224,
-        "comentarios": 994,
-        "compartidos": 21853,
-        "guardados": 3186,
-        "interacciones": 107569,
+        "alcance": 696971,
+        "visualizaciones": 805314,
+        "me_gusta": 79319,
+        "comentarios": 995,
+        "compartidos": 21876,
+        "guardados": 3189,
+        "interacciones": 107700,
         "tasa_interaccion": 0.1545,
         "tematicas": [
           "promocion"
@@ -420,7 +420,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 696413,
+          "valor": 696971,
           "posicion": 1
         },
         {
@@ -472,7 +472,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 804646,
+          "valor": 805314,
           "posicion": 1
         },
         {
@@ -507,7 +507,7 @@
         },
         {
           "id": "p_aade23287b6bdc22",
-          "valor": 1516,
+          "valor": 1518,
           "posicion": 8
         },
         {
@@ -576,7 +576,7 @@
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 21853,
+          "valor": 21876,
           "posicion": 1
         },
         {
@@ -628,7 +628,7 @@
       "guardados": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 3186,
+          "valor": 3189,
           "posicion": 1
         },
         {
@@ -741,7 +741,7 @@
             "grupo": "martes",
             "n": 2,
             "mediana_alcance": 1185.0,
-            "mediana_visualizaciones": 1486.0,
+            "mediana_visualizaciones": 1487.0,
             "mediana_tasa_interaccion": 0.0254,
             "mediana_compartidos": 0.5,
             "mediana_guardados": 0.5
@@ -779,7 +779,7 @@
             "grupo": "tarde (12-19h)",
             "n": 14,
             "mediana_alcance": 942.5,
-            "mediana_visualizaciones": 1486.0,
+            "mediana_visualizaciones": 1487.0,
             "mediana_tasa_interaccion": 0.0438,
             "mediana_compartidos": 2.0,
             "mediana_guardados": 0.0
@@ -844,7 +844,7 @@
             "grupo": "novedad",
             "n": 3,
             "mediana_alcance": 1103,
-            "mediana_visualizaciones": 1516,
+            "mediana_visualizaciones": 1518,
             "mediana_tasa_interaccion": 0.0417,
             "mediana_compartidos": 1,
             "mediana_guardados": 0
@@ -929,7 +929,7 @@
             "grupo": "largo (>300)",
             "n": 8,
             "mediana_alcance": 1103.0,
-            "mediana_visualizaciones": 1486.0,
+            "mediana_visualizaciones": 1487.0,
             "mediana_tasa_interaccion": 0.041,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 1.0

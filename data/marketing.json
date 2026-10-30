@@ -1,14 +1,36 @@
 {
   "version": 1,
-  "generado": "2026-10-30T12:46:02Z",
+  "generado": "2026-10-30T20:13:28Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
       "usuario": "boticlick.cl",
-      "seguidores": 1062
+      "seguidores": 1064
     },
     "ventana_dias": 90,
     "publicaciones": [
+      {
+        "id": "p_e87628711ca0f19f",
+        "fecha": "2026-10-30",
+        "formato": "reel",
+        "caption": "🎃¡MAÑANA EL DISFRAZ SE ESTRENA DONDE PARTE EL CARRETE! 👻\n\n🎭 Ven disfrazado, disfruta el ambiente de Halloween y prepárate para el carrete con nosotros. 🔥\n\n📍 Av. Brasil 532, Romeral\n\n🎃 ¡TE ESPERAMOS MAÑANA!",
+        "permalink": "https://www.instagram.com/reel/DfH3yQnz_CF/",
+        "imagen": "media/p_e87628711ca0f19f.webp",
+        "alcance": 170,
+        "visualizaciones": 268,
+        "me_gusta": 7,
+        "comentarios": 1,
+        "compartidos": 2,
+        "guardados": 0,
+        "interacciones": 14,
+        "tasa_interaccion": 0.0824,
+        "tematicas": [
+          "ocasion_evento"
+        ],
+        "tipos_hook": [
+          "emoji_inicial"
+        ]
+      },
       {
         "id": "p_aade23287b6bdc22",
         "fecha": "2026-10-27",
@@ -17,7 +39,7 @@
         "permalink": "https://www.instagram.com/reel/DfAwY0izpIL/",
         "imagen": "media/p_aade23287b6bdc22.webp",
         "alcance": 1271,
-        "visualizaciones": 1521,
+        "visualizaciones": 1522,
         "me_gusta": 17,
         "comentarios": 1,
         "compartidos": 1,
@@ -41,7 +63,7 @@
         "permalink": "https://www.instagram.com/reel/De2FLVLTx7M/",
         "imagen": "media/p_4a0a17286b616c05.webp",
         "alcance": 716,
-        "visualizaciones": 966,
+        "visualizaciones": 967,
         "me_gusta": 17,
         "comentarios": 0,
         "compartidos": 2,
@@ -126,14 +148,14 @@
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 698921,
-        "visualizaciones": 807709,
-        "me_gusta": 79641,
-        "comentarios": 1002,
-        "compartidos": 22016,
-        "guardados": 3208,
-        "interacciones": 108200,
-        "tasa_interaccion": 0.1548,
+        "alcance": 701013,
+        "visualizaciones": 810213,
+        "me_gusta": 80028,
+        "comentarios": 1007,
+        "compartidos": 22177,
+        "guardados": 3228,
+        "interacciones": 108796,
+        "tasa_interaccion": 0.1552,
         "tematicas": [
           "promocion"
         ],
@@ -148,14 +170,14 @@
         "caption": "SI HASTA ÉL VINO… 👀💀 POR ALGO SERÁ. 😎\n\n¿Y tú qué estás esperando?\n\n📍 Av. Brasil 532, #Romeral",
         "permalink": "https://www.instagram.com/reel/DeH_C_8TGsZ/",
         "imagen": "media/p_4ab98f5e09d1cb3e.webp",
-        "alcance": 1370,
-        "visualizaciones": 1951,
+        "alcance": 1374,
+        "visualizaciones": 1954,
         "me_gusta": 32,
         "comentarios": 1,
         "compartidos": 2,
         "guardados": 2,
         "interacciones": 42,
-        "tasa_interaccion": 0.0307,
+        "tasa_interaccion": 0.0306,
         "tematicas": [
           "vino_espumante"
         ],
@@ -230,8 +252,8 @@
         "caption": "QUERÍAMOS AGRADECERLES… Y CREEMOS QUE ESTE VIDEO LO EXPLICA MEJOR. ❤️\n\nPorque una cosa es hacer concursos, tirar promos y preparar sorpresas…\n\ny otra muy distinta es que ustedes se sumen con estas ganas. 🔥\n\nParticiparon, celebraron, se rieron, nos eligieron y algunos hasta terminaron bailando. 🕺😅\n\nEste video es solo un pedacito de todo lo que vivimos juntos estos días.\n\nGracias por la confianza, por el cariño y, sobre todo, por la buena onda de siempre.❤️\n\nNosotros seguiremos inventando motivos para encontrarnos. 🍻❤️\n\nNos vemos en @boticlick.cl \n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DdmOTPhTN4c/",
         "imagen": "media/p_f1b18a8143bdf92e.webp",
-        "alcance": 1107,
-        "visualizaciones": 1458,
+        "alcance": 1108,
+        "visualizaciones": 1459,
         "me_gusta": 31,
         "comentarios": 1,
         "compartidos": 0,
@@ -412,7 +434,7 @@
       },
       {
         "tipo_contenido": "VIDEO/REELS",
-        "publicaciones": 11,
+        "publicaciones": 12,
         "metricas_sin_dato": []
       }
     ],
@@ -420,7 +442,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 698921,
+          "valor": 701013,
           "posicion": 1
         },
         {
@@ -430,7 +452,7 @@
         },
         {
           "id": "p_4ab98f5e09d1cb3e",
-          "valor": 1370,
+          "valor": 1374,
           "posicion": 3
         },
         {
@@ -450,7 +472,7 @@
         },
         {
           "id": "p_f1b18a8143bdf92e",
-          "valor": 1107,
+          "valor": 1108,
           "posicion": 7
         },
         {
@@ -472,7 +494,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 807709,
+          "valor": 810213,
           "posicion": 1
         },
         {
@@ -487,7 +509,7 @@
         },
         {
           "id": "p_4ab98f5e09d1cb3e",
-          "valor": 1951,
+          "valor": 1954,
           "posicion": 4
         },
         {
@@ -507,12 +529,12 @@
         },
         {
           "id": "p_aade23287b6bdc22",
-          "valor": 1521,
+          "valor": 1522,
           "posicion": 8
         },
         {
           "id": "p_f1b18a8143bdf92e",
-          "valor": 1458,
+          "valor": 1459,
           "posicion": 9
         },
         {
@@ -524,7 +546,7 @@
       "tasa_interaccion": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 0.1548,
+          "valor": 0.1552,
           "posicion": 1
         },
         {
@@ -533,50 +555,50 @@
           "posicion": 2
         },
         {
+          "id": "p_e87628711ca0f19f",
+          "valor": 0.0824,
+          "posicion": 3
+        },
+        {
           "id": "p_bbe8ec946b1f457e",
           "valor": 0.0818,
-          "posicion": 3
+          "posicion": 4
         },
         {
           "id": "p_382bba110281c465",
           "valor": 0.0671,
-          "posicion": 4
+          "posicion": 5
         },
         {
           "id": "p_3bdc7a3fe9b3471a",
           "valor": 0.0632,
-          "posicion": 5
+          "posicion": 6
         },
         {
           "id": "p_12fdf6b057834b66",
           "valor": 0.0564,
-          "posicion": 6
+          "posicion": 7
         },
         {
           "id": "p_a1352dced47eb8d2",
           "valor": 0.0522,
-          "posicion": 7
+          "posicion": 8
         },
         {
           "id": "p_0260831e48a21644",
           "valor": 0.049,
-          "posicion": 8
+          "posicion": 9
         },
         {
           "id": "p_44a08fedca8fa264",
           "valor": 0.0417,
-          "posicion": 9
-        },
-        {
-          "id": "p_e72c4cba0430877b",
-          "valor": 0.0386,
           "posicion": 10
         }
       ],
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 22016,
+          "valor": 22177,
           "posicion": 1
         },
         {
@@ -605,30 +627,30 @@
           "posicion": 6
         },
         {
-          "id": "p_4a0a17286b616c05",
+          "id": "p_e87628711ca0f19f",
           "valor": 2,
           "posicion": 7
         },
         {
-          "id": "p_e782cbdbcd5c2198",
+          "id": "p_4a0a17286b616c05",
           "valor": 2,
           "posicion": 8
         },
         {
-          "id": "p_4ab98f5e09d1cb3e",
+          "id": "p_e782cbdbcd5c2198",
           "valor": 2,
           "posicion": 9
         },
         {
-          "id": "p_aade23287b6bdc22",
-          "valor": 1,
+          "id": "p_4ab98f5e09d1cb3e",
+          "valor": 2,
           "posicion": 10
         }
       ],
       "guardados": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 3208,
+          "valor": 3228,
           "posicion": 1
         },
         {
@@ -667,12 +689,12 @@
           "posicion": 8
         },
         {
-          "id": "p_aade23287b6bdc22",
+          "id": "p_e87628711ca0f19f",
           "valor": 0,
           "posicion": 9
         },
         {
-          "id": "p_4a0a17286b616c05",
+          "id": "p_aade23287b6bdc22",
           "valor": 0,
           "posicion": 10
         }
@@ -683,12 +705,12 @@
         "formato": [
           {
             "grupo": "reel",
-            "n": 11,
-            "mediana_alcance": 1166,
-            "mediana_visualizaciones": 1714,
-            "mediana_tasa_interaccion": 0.0325,
-            "mediana_compartidos": 2,
-            "mediana_guardados": 0
+            "n": 12,
+            "mediana_alcance": 1137.0,
+            "mediana_visualizaciones": 1618.0,
+            "mediana_tasa_interaccion": 0.0328,
+            "mediana_compartidos": 2.0,
+            "mediana_guardados": 0.0
           },
           {
             "grupo": "imagen",
@@ -712,12 +734,12 @@
         "dia_semana": [
           {
             "grupo": "viernes",
-            "n": 6,
-            "mediana_alcance": 749.0,
-            "mediana_visualizaciones": 1437.0,
-            "mediana_tasa_interaccion": 0.0429,
-            "mediana_compartidos": 1.5,
-            "mediana_guardados": 0.5
+            "n": 7,
+            "mediana_alcance": 716,
+            "mediana_visualizaciones": 1160,
+            "mediana_tasa_interaccion": 0.0522,
+            "mediana_compartidos": 2,
+            "mediana_guardados": 0
           },
           {
             "grupo": "miércoles",
@@ -740,8 +762,8 @@
           {
             "grupo": "martes",
             "n": 2,
-            "mediana_alcance": 1189.0,
-            "mediana_visualizaciones": 1489.5,
+            "mediana_alcance": 1189.5,
+            "mediana_visualizaciones": 1490.5,
             "mediana_tasa_interaccion": 0.0253,
             "mediana_compartidos": 0.5,
             "mediana_guardados": 0.5
@@ -749,9 +771,9 @@
           {
             "grupo": "lunes",
             "n": 2,
-            "mediana_alcance": 987.5,
-            "mediana_visualizaciones": 1434.0,
-            "mediana_tasa_interaccion": 0.0319,
+            "mediana_alcance": 989.5,
+            "mediana_visualizaciones": 1435.5,
+            "mediana_tasa_interaccion": 0.0318,
             "mediana_compartidos": 2.0,
             "mediana_guardados": 1.0
           },
@@ -777,12 +799,12 @@
         "franja_horaria": [
           {
             "grupo": "tarde (12-19h)",
-            "n": 14,
-            "mediana_alcance": 942.5,
-            "mediana_visualizaciones": 1489.5,
-            "mediana_tasa_interaccion": 0.0438,
-            "mediana_compartidos": 2.0,
-            "mediana_guardados": 0.0
+            "n": 15,
+            "mediana_alcance": 782,
+            "mediana_visualizaciones": 1459,
+            "mediana_tasa_interaccion": 0.049,
+            "mediana_compartidos": 2,
+            "mediana_guardados": 0
           },
           {
             "grupo": "noche (19-6h)",
@@ -805,10 +827,19 @@
         ],
         "tematica": [
           {
+            "grupo": "ocasion_evento",
+            "n": 5,
+            "mediana_alcance": 249,
+            "mediana_visualizaciones": 539,
+            "mediana_tasa_interaccion": 0.0564,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 0
+          },
+          {
             "grupo": "promocion",
             "n": 5,
-            "mediana_alcance": 1107,
-            "mediana_visualizaciones": 1458,
+            "mediana_alcance": 1108,
+            "mediana_visualizaciones": 1459,
             "mediana_tasa_interaccion": 0.0335,
             "mediana_compartidos": 2,
             "mediana_guardados": 0
@@ -823,19 +854,10 @@
             "mediana_guardados": 0
           },
           {
-            "grupo": "ocasion_evento",
-            "n": 4,
-            "mediana_alcance": 319.5,
-            "mediana_visualizaciones": 552.0,
-            "mediana_tasa_interaccion": 0.0543,
-            "mediana_compartidos": 0.5,
-            "mediana_guardados": 0.0
-          },
-          {
             "grupo": "sorteo",
             "n": 4,
-            "mediana_alcance": 1105.0,
-            "mediana_visualizaciones": 1586.0,
+            "mediana_alcance": 1105.5,
+            "mediana_visualizaciones": 1586.5,
             "mediana_tasa_interaccion": 0.0407,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 1.5
@@ -844,7 +866,7 @@
             "grupo": "novedad",
             "n": 3,
             "mediana_alcance": 1103,
-            "mediana_visualizaciones": 1521,
+            "mediana_visualizaciones": 1522,
             "mediana_tasa_interaccion": 0.0417,
             "mediana_compartidos": 1,
             "mediana_guardados": 0
@@ -861,9 +883,9 @@
           {
             "grupo": "vino_espumante",
             "n": 1,
-            "mediana_alcance": 1370,
-            "mediana_visualizaciones": 1951,
-            "mediana_tasa_interaccion": 0.0307,
+            "mediana_alcance": 1374,
+            "mediana_visualizaciones": 1954,
+            "mediana_tasa_interaccion": 0.0306,
             "mediana_compartidos": 2,
             "mediana_guardados": 2
           },
@@ -891,7 +913,7 @@
             "grupo": "intriga",
             "n": 12,
             "mediana_alcance": 854.0,
-            "mediana_visualizaciones": 1220.5,
+            "mediana_visualizaciones": 1221.0,
             "mediana_tasa_interaccion": 0.0402,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 0.5
@@ -906,6 +928,15 @@
             "mediana_guardados": 0
           },
           {
+            "grupo": "emoji_inicial",
+            "n": 4,
+            "mediana_alcance": 512.5,
+            "mediana_visualizaciones": 1071.5,
+            "mediana_tasa_interaccion": 0.0509,
+            "mediana_compartidos": 1.0,
+            "mediana_guardados": 1.5
+          },
+          {
             "grupo": "pregunta",
             "n": 3,
             "mediana_alcance": 440,
@@ -913,42 +944,33 @@
             "mediana_tasa_interaccion": 0.049,
             "mediana_compartidos": 3,
             "mediana_guardados": 2
-          },
-          {
-            "grupo": "emoji_inicial",
-            "n": 3,
-            "mediana_alcance": 585,
-            "mediana_visualizaciones": 1160,
-            "mediana_tasa_interaccion": 0.0386,
-            "mediana_compartidos": 1,
-            "mediana_guardados": 2
           }
         ],
         "largo_caption": [
           {
+            "grupo": "medio (100-300)",
+            "n": 8,
+            "mediana_alcance": 356.0,
+            "mediana_visualizaciones": 772.5,
+            "mediana_tasa_interaccion": 0.0596,
+            "mediana_compartidos": 1.5,
+            "mediana_guardados": 0.0
+          },
+          {
             "grupo": "largo (>300)",
             "n": 8,
-            "mediana_alcance": 1105.0,
-            "mediana_visualizaciones": 1489.5,
+            "mediana_alcance": 1105.5,
+            "mediana_visualizaciones": 1490.5,
             "mediana_tasa_interaccion": 0.041,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 1.0
           },
           {
-            "grupo": "medio (100-300)",
-            "n": 7,
-            "mediana_alcance": 384,
-            "mediana_visualizaciones": 809,
-            "mediana_tasa_interaccion": 0.0522,
-            "mediana_compartidos": 1,
-            "mediana_guardados": 0
-          },
-          {
             "grupo": "corto (<100)",
             "n": 3,
-            "mediana_alcance": 1370,
-            "mediana_visualizaciones": 1951,
-            "mediana_tasa_interaccion": 0.0307,
+            "mediana_alcance": 1374,
+            "mediana_visualizaciones": 1954,
+            "mediana_tasa_interaccion": 0.0306,
             "mediana_compartidos": 2,
             "mediana_guardados": 2
           }
@@ -957,7 +979,7 @@
       "afirmaciones": [
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el formato «reel» tiene mayor mediana de alcance (1.166, n=11) que «imagen» (316, n=4)."
+          "texto": "En la muestra, el formato «reel» tiene mayor mediana de alcance (1.137, n=12) que «imagen» (316, n=4)."
         },
         {
           "tipo": "hipotesis",
@@ -965,7 +987,7 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el formato «carrusel» tiene mayor mediana de tasa de interacción (6.7%, n=3) que «reel» (3.2%, n=11)."
+          "texto": "En la muestra, el formato «carrusel» tiene mayor mediana de tasa de interacción (6.7%, n=3) que «reel» (3.3%, n=12)."
         },
         {
           "tipo": "hipotesis",
@@ -973,27 +995,27 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.107, n=5) que «ocasion_evento» (320, n=4)."
+          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.108, n=5) que «ocasion_evento» (249, n=5)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar la temática «promocion» para alcance — muestra pequeña, validar con más publicaciones."
+          "texto": "Podría convenir priorizar la temática «promocion» para alcance; correlación observada, no prueba causalidad."
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el tipo de hook «pregunta» tiene mayor mediana de tasa de interacción (4.9%, n=3) que «otro» (3.4%, n=5)."
+          "texto": "En la muestra, el tipo de hook «emoji_inicial» tiene mayor mediana de tasa de interacción (5.1%, n=4) que «otro» (3.4%, n=5)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar el tipo de hook «pregunta» para tasa de interacción — muestra pequeña, validar con más publicaciones."
+          "texto": "Podría convenir priorizar el tipo de hook «emoji_inicial» para tasa de interacción — muestra pequeña, validar con más publicaciones."
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la franja horaria «tarde (12-19h)» tiene mayor mediana de alcance (942, n=14) que «mañana (6-12h)» (484, n=2)."
+          "texto": "En la muestra, la franja horaria «noche (19-6h)» tiene mayor mediana de alcance (886, n=2) que «mañana (6-12h)» (484, n=2)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar la franja horaria «tarde (12-19h)» para alcance — muestra pequeña, validar con más publicaciones."
+          "texto": "Podría convenir priorizar la franja horaria «noche (19-6h)» para alcance — muestra pequeña, validar con más publicaciones."
         }
       ],
       "hooks_top_alcance": [
@@ -1022,9 +1044,971 @@
       "limitaciones": [
         "No se analizó visualmente el contenido de los videos ni de las imágenes: solo metadatos, portadas y captions.",
         "Las métricas por publicación son acumuladas desde su publicación: las más recientes tienen menos tiempo de exposición.",
-        "Muestra de 18 publicaciones; las diferencias entre grupos pequeños pueden ser azar."
+        "Muestra de 19 publicaciones; las diferencias entre grupos pequeños pueden ser azar."
       ]
-    }
+    },
+    "seguidores_diarios": [
+      {
+        "fecha": "2026-07-02",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 223,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-03",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 223,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-04",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 223,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-05",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-06",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-07",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-08",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-09",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-10",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-11",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-12",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-13",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-14",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-15",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-16",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-17",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-18",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-19",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-20",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-21",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-22",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-23",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-24",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-25",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-26",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-27",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-28",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 224,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-29",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-30",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-31",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-01",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 225,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-02",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-03",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-04",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-05",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-06",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-07",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-08",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-09",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-10",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-11",
+        "ganados": 8,
+        "perdidos": 0,
+        "neto": 8,
+        "total_estimado": 226,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-12",
+        "ganados": 5,
+        "perdidos": 0,
+        "neto": 5,
+        "total_estimado": 234,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-13",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 239,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-14",
+        "ganados": 3,
+        "perdidos": 0,
+        "neto": 3,
+        "total_estimado": 241,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-15",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 244,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-16",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 246,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-17",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 246,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-18",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 246,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-19",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 246,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-20",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 245,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-21",
+        "ganados": 10,
+        "perdidos": 0,
+        "neto": 10,
+        "total_estimado": 247,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-22",
+        "ganados": 9,
+        "perdidos": 0,
+        "neto": 9,
+        "total_estimado": 257,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-23",
+        "ganados": 6,
+        "perdidos": 0,
+        "neto": 6,
+        "total_estimado": 266,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-24",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 272,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-25",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 273,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-26",
+        "ganados": 3,
+        "perdidos": 0,
+        "neto": 3,
+        "total_estimado": 274,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-27",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 277,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-28",
+        "ganados": 33,
+        "perdidos": 1,
+        "neto": 32,
+        "total_estimado": 279,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-29",
+        "ganados": 43,
+        "perdidos": 0,
+        "neto": 43,
+        "total_estimado": 311,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-30",
+        "ganados": 29,
+        "perdidos": 1,
+        "neto": 28,
+        "total_estimado": 354,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-08-31",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 382,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-01",
+        "ganados": 8,
+        "perdidos": 1,
+        "neto": 7,
+        "total_estimado": 382,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-02",
+        "ganados": 4,
+        "perdidos": 0,
+        "neto": 4,
+        "total_estimado": 389,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-03",
+        "ganados": 4,
+        "perdidos": 0,
+        "neto": 4,
+        "total_estimado": 393,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-04",
+        "ganados": 12,
+        "perdidos": 1,
+        "neto": 11,
+        "total_estimado": 397,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-05",
+        "ganados": 12,
+        "perdidos": 0,
+        "neto": 12,
+        "total_estimado": 408,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-06",
+        "ganados": 8,
+        "perdidos": 1,
+        "neto": 7,
+        "total_estimado": 420,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-07",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 427,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-08",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 427,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-09",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 428,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-10",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 428,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-11",
+        "ganados": 8,
+        "perdidos": 0,
+        "neto": 8,
+        "total_estimado": 429,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-12",
+        "ganados": 9,
+        "perdidos": 0,
+        "neto": 9,
+        "total_estimado": 437,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-13",
+        "ganados": 7,
+        "perdidos": 1,
+        "neto": 6,
+        "total_estimado": 446,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-14",
+        "ganados": 3,
+        "perdidos": 0,
+        "neto": 3,
+        "total_estimado": 452,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-15",
+        "ganados": 7,
+        "perdidos": 0,
+        "neto": 7,
+        "total_estimado": 455,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-16",
+        "ganados": 6,
+        "perdidos": 1,
+        "neto": 5,
+        "total_estimado": 462,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-17",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 467,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-18",
+        "ganados": 3,
+        "perdidos": 1,
+        "neto": 2,
+        "total_estimado": 468,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-19",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 470,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-20",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 471,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-21",
+        "ganados": 0,
+        "perdidos": 2,
+        "neto": -2,
+        "total_estimado": 471,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-22",
+        "ganados": 15,
+        "perdidos": 0,
+        "neto": 15,
+        "total_estimado": 469,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-23",
+        "ganados": 8,
+        "perdidos": 0,
+        "neto": 8,
+        "total_estimado": 484,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-24",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 492,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-25",
+        "ganados": 5,
+        "perdidos": 0,
+        "neto": 5,
+        "total_estimado": 491,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-26",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 496,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-27",
+        "ganados": 2,
+        "perdidos": 1,
+        "neto": 1,
+        "total_estimado": 497,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-28",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 498,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-29",
+        "ganados": 1,
+        "perdidos": 2,
+        "neto": -1,
+        "total_estimado": 499,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-09-30",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 498,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-01",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 498,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-02",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 498,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-03",
+        "ganados": 6,
+        "perdidos": 0,
+        "neto": 6,
+        "total_estimado": 500,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-04",
+        "ganados": 3,
+        "perdidos": 1,
+        "neto": 2,
+        "total_estimado": 506,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-05",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 508,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-06",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 510,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-07",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 510,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-08",
+        "ganados": 0,
+        "perdidos": 2,
+        "neto": -2,
+        "total_estimado": 511,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-09",
+        "ganados": 4,
+        "perdidos": 0,
+        "neto": 4,
+        "total_estimado": 509,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-10",
+        "ganados": 3,
+        "perdidos": 0,
+        "neto": 3,
+        "total_estimado": 513,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-11",
+        "ganados": 59,
+        "perdidos": 0,
+        "neto": 59,
+        "total_estimado": 516,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-12",
+        "ganados": 466,
+        "perdidos": 3,
+        "neto": 463,
+        "total_estimado": 575,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-13",
+        "ganados": 16,
+        "perdidos": 1,
+        "neto": 15,
+        "total_estimado": 1038,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-14",
+        "ganados": 2,
+        "perdidos": 3,
+        "neto": -1,
+        "total_estimado": 1053,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-15",
+        "ganados": 0,
+        "perdidos": 3,
+        "neto": -3,
+        "total_estimado": 1052,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-16",
+        "ganados": 2,
+        "perdidos": 4,
+        "neto": -2,
+        "total_estimado": 1049,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-17",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 1047,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-18",
+        "ganados": 2,
+        "perdidos": 2,
+        "neto": 0,
+        "total_estimado": 1046,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-19",
+        "ganados": 2,
+        "perdidos": 2,
+        "neto": 0,
+        "total_estimado": 1046,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-20",
+        "ganados": 0,
+        "perdidos": 2,
+        "neto": -2,
+        "total_estimado": 1046,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-21",
+        "ganados": 3,
+        "perdidos": 0,
+        "neto": 3,
+        "total_estimado": 1044,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-22",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 1047,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-23",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 1046,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-24",
+        "ganados": 4,
+        "perdidos": 0,
+        "neto": 4,
+        "total_estimado": 1046,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-25",
+        "ganados": 0,
+        "perdidos": 2,
+        "neto": -2,
+        "total_estimado": 1050,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-26",
+        "ganados": 3,
+        "perdidos": 1,
+        "neto": 2,
+        "total_estimado": 1048,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-27",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 1050,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-10-28",
+        "ganados": 1,
+        "perdidos": 0,
+        "neto": 1,
+        "total_estimado": 1051,
+        "estado": "provisional"
+      },
+      {
+        "fecha": "2026-10-29",
+        "ganados": 10,
+        "perdidos": 0,
+        "neto": 10,
+        "total_estimado": 1052,
+        "estado": "provisional"
+      }
+    ]
   },
   "anuncios": {
     "resumen": {

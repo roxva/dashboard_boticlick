@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generado": "2026-11-02T19:26:26Z",
+  "generado": "2026-11-02T20:50:17Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
       "usuario": "boticlick.cl",
-      "seguidores": 1122
+      "seguidores": 1124
     },
     "ventana_dias": 90,
     "publicaciones": [
@@ -16,14 +16,14 @@
         "caption": "TODO PARTIÓ CON UNA IDEA…Y ROMERAL NOS SORPRENDIÓ. 👻🎃💀❤️\n\nLo que imaginamos como una noche diferente en Boticlick terminó superando todas nuestras expectativas.\n\nNuestra botillería se llenó de niños, adultos, familias y disfraces increíbles. Entre decoraciones, personajes, fotos y muchas sonrisas, vivimos algo que jamás imaginamos ver en una boti. 👻\n\nUNA NOCHE QUE NO VAMOS A OLVIDAR. ❤️\n\nGracias a cada persona que llegó, participó y fue parte de esta experiencia.\n\nPorque en Boticlick queremos que venir a la boti sea mucho más que venir a comprar.\n\nNos vemos en Boticlick\n📍 Av. Brasil 532, Romeral\n\n#Boticlick #Romeral #Halloween #chile",
         "permalink": "https://www.instagram.com/reel/DfNnKo0TtqU/",
         "imagen": "media/p_78e05bcdddfe312d.webp",
-        "alcance": 474,
-        "visualizaciones": 778,
+        "alcance": 483,
+        "visualizaciones": 795,
         "me_gusta": 22,
         "comentarios": 2,
         "compartidos": 12,
         "guardados": 2,
         "interacciones": 45,
-        "tasa_interaccion": 0.0949,
+        "tasa_interaccion": 0.0932,
         "tematicas": [
           "ocasion_evento",
           "novedad"
@@ -39,14 +39,14 @@
         "caption": "🎃¡MAÑANA EL DISFRAZ SE ESTRENA DONDE PARTE EL CARRETE! 👻\n\n🎭 Ven disfrazado, disfruta el ambiente de Halloween y prepárate para el carrete con nosotros. 🔥\n\n📍 Av. Brasil 532, Romeral\n\n🎃 ¡TE ESPERAMOS MAÑANA!",
         "permalink": "https://www.instagram.com/reel/DfH3yQnz_CF/",
         "imagen": "media/p_e87628711ca0f19f.webp",
-        "alcance": 407,
+        "alcance": 408,
         "visualizaciones": 595,
         "me_gusta": 11,
         "comentarios": 2,
         "compartidos": 2,
         "guardados": 0,
         "interacciones": 20,
-        "tasa_interaccion": 0.0491,
+        "tasa_interaccion": 0.049,
         "tematicas": [
           "ocasion_evento"
         ],
@@ -61,8 +61,8 @@
         "caption": "ESTO NO ES LO DE SIEMPRE. 👀🔥\n\nEn Boticlick, venir a comprar siempre tiene algo más. Y este Halloween no será la excepción. 🎃\n\nEste 31 de octubre, pasa por tus promos favoritas, ven disfrazado y aprovecha de sacarte una foto con nuestros nuevos personajes. 👻📸\n\nPorque el carrete también empieza por dónde eliges comprar. 🍻\nEl carrete parte en Boticlick 😎\n\n¿Con quién vienes este 31? 👀\n\n📍 Av. Brasil 532, Romeral\n\n#Romeral #Halloween #Boticlick",
         "permalink": "https://www.instagram.com/reel/DfAwY0izpIL/",
         "imagen": "media/p_aade23287b6bdc22.webp",
-        "alcance": 1362,
-        "visualizaciones": 1640,
+        "alcance": 1364,
+        "visualizaciones": 1641,
         "me_gusta": 20,
         "comentarios": 1,
         "compartidos": 1,
@@ -85,7 +85,7 @@
         "caption": "MENOS MAL TIENE BUENOS AMIGOS. 😂📲**\n\nDejó a la cajera sin entender nada y se fue directo a Boticlick. 😂\n\nPORQUE EL SÚPER LO PUEDE TENER TODO… PERO NO LAS MEJORES PROMOS. 🔥\n\n🥃 Nos vemos en Boticlick.\n\n📍 Av. Brasil 532, #Romeral\n\n#Chile",
         "permalink": "https://www.instagram.com/reel/De2FLVLTx7M/",
         "imagen": "media/p_4a0a17286b616c05.webp",
-        "alcance": 788,
+        "alcance": 789,
         "visualizaciones": 1047,
         "me_gusta": 18,
         "comentarios": 0,
@@ -171,13 +171,13 @@
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 769958,
-        "visualizaciones": 892779,
-        "me_gusta": 91343,
-        "comentarios": 1117,
-        "compartidos": 25467,
-        "guardados": 3790,
-        "interacciones": 124504,
+        "alcance": 770804,
+        "visualizaciones": 893787,
+        "me_gusta": 91490,
+        "comentarios": 1118,
+        "compartidos": 25444,
+        "guardados": 3796,
+        "interacciones": 124643,
         "tasa_interaccion": 0.1617,
         "tematicas": [
           "promocion"
@@ -465,7 +465,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 769958,
+          "valor": 770804,
           "posicion": 1
         },
         {
@@ -479,13 +479,13 @@
           "posicion": 3
         },
         {
-          "id": "p_de6ef325f50ae93b",
+          "id": "p_aade23287b6bdc22",
           "valor": 1364,
           "posicion": 4
         },
         {
-          "id": "p_aade23287b6bdc22",
-          "valor": 1362,
+          "id": "p_de6ef325f50ae93b",
+          "valor": 1364,
           "posicion": 5
         },
         {
@@ -505,7 +505,7 @@
         },
         {
           "id": "p_4a0a17286b616c05",
-          "valor": 788,
+          "valor": 789,
           "posicion": 9
         },
         {
@@ -517,7 +517,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 892779,
+          "valor": 893787,
           "posicion": 1
         },
         {
@@ -552,7 +552,7 @@
         },
         {
           "id": "p_aade23287b6bdc22",
-          "valor": 1640,
+          "valor": 1641,
           "posicion": 8
         },
         {
@@ -573,13 +573,13 @@
           "posicion": 1
         },
         {
-          "id": "p_78e05bcdddfe312d",
-          "valor": 0.0949,
+          "id": "p_0d90ef892e101041",
+          "valor": 0.0947,
           "posicion": 2
         },
         {
-          "id": "p_0d90ef892e101041",
-          "valor": 0.0947,
+          "id": "p_78e05bcdddfe312d",
+          "valor": 0.0932,
           "posicion": 3
         },
         {
@@ -604,7 +604,7 @@
         },
         {
           "id": "p_e87628711ca0f19f",
-          "valor": 0.0491,
+          "valor": 0.049,
           "posicion": 8
         },
         {
@@ -621,7 +621,7 @@
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 25467,
+          "valor": 25444,
           "posicion": 1
         },
         {
@@ -673,7 +673,7 @@
       "guardados": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 3790,
+          "valor": 3796,
           "posicion": 1
         },
         {
@@ -730,7 +730,7 @@
             "grupo": "reel",
             "n": 13,
             "mediana_alcance": 1133,
-            "mediana_visualizaciones": 1640,
+            "mediana_visualizaciones": 1641,
             "mediana_tasa_interaccion": 0.0317,
             "mediana_compartidos": 2,
             "mediana_guardados": 0
@@ -760,7 +760,7 @@
             "n": 7,
             "mediana_alcance": 788,
             "mediana_visualizaciones": 1164,
-            "mediana_tasa_interaccion": 0.0491,
+            "mediana_tasa_interaccion": 0.049,
             "mediana_compartidos": 2,
             "mediana_guardados": 0
           },
@@ -769,7 +769,7 @@
             "n": 4,
             "mediana_alcance": 1604.5,
             "mediana_visualizaciones": 2266.5,
-            "mediana_tasa_interaccion": 0.0719,
+            "mediana_tasa_interaccion": 0.0711,
             "mediana_compartidos": 12.0,
             "mediana_guardados": 2.0
           },
@@ -785,8 +785,8 @@
           {
             "grupo": "martes",
             "n": 2,
-            "mediana_alcance": 1247.5,
-            "mediana_visualizaciones": 1561.0,
+            "mediana_alcance": 1248.5,
+            "mediana_visualizaciones": 1561.5,
             "mediana_tasa_interaccion": 0.0254,
             "mediana_compartidos": 0.5,
             "mediana_guardados": 0.5
@@ -823,7 +823,7 @@
           {
             "grupo": "tarde (12-19h)",
             "n": 16,
-            "mediana_alcance": 788.0,
+            "mediana_alcance": 788.5,
             "mediana_visualizaciones": 1264.5,
             "mediana_tasa_interaccion": 0.0489,
             "mediana_compartidos": 2.0,
@@ -852,9 +852,9 @@
           {
             "grupo": "ocasion_evento",
             "n": 6,
-            "mediana_alcance": 428.5,
+            "mediana_alcance": 429.0,
             "mediana_visualizaciones": 611.0,
-            "mediana_tasa_interaccion": 0.0505,
+            "mediana_tasa_interaccion": 0.0504,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
           },
@@ -879,8 +879,8 @@
           {
             "grupo": "novedad",
             "n": 4,
-            "mediana_alcance": 799.0,
-            "mediana_visualizaciones": 1209.0,
+            "mediana_alcance": 803.5,
+            "mediana_visualizaciones": 1218.0,
             "mediana_tasa_interaccion": 0.0452,
             "mediana_compartidos": 6.5,
             "mediana_guardados": 1.0
@@ -944,7 +944,7 @@
           {
             "grupo": "otro",
             "n": 5,
-            "mediana_alcance": 788,
+            "mediana_alcance": 789,
             "mediana_visualizaciones": 1844,
             "mediana_tasa_interaccion": 0.0317,
             "mediana_compartidos": 3,
@@ -955,7 +955,7 @@
             "n": 4,
             "mediana_alcance": 512.5,
             "mediana_visualizaciones": 1075.5,
-            "mediana_tasa_interaccion": 0.0439,
+            "mediana_tasa_interaccion": 0.0438,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 1.5
           },
@@ -982,9 +982,9 @@
           {
             "grupo": "medio (100-300)",
             "n": 8,
-            "mediana_alcance": 396.0,
+            "mediana_alcance": 396.5,
             "mediana_visualizaciones": 778.0,
-            "mediana_tasa_interaccion": 0.0505,
+            "mediana_tasa_interaccion": 0.0504,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
           },
@@ -1018,7 +1018,7 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.133, n=5) que «ocasion_evento» (428, n=6)."
+          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.133, n=5) que «ocasion_evento» (429, n=6)."
         },
         {
           "tipo": "hipotesis",
@@ -1055,12 +1055,12 @@
           "hook": "SI HASTA ÉL VINO… 👀💀 POR ALGO SERÁ. 😎"
         },
         {
-          "id": "p_de6ef325f50ae93b",
-          "hook": "LAS APARIENCIAS ENGAÑAN. 👻"
-        },
-        {
           "id": "p_aade23287b6bdc22",
           "hook": "ESTO NO ES LO DE SIEMPRE. 👀🔥"
+        },
+        {
+          "id": "p_de6ef325f50ae93b",
+          "hook": "LAS APARIENCIAS ENGAÑAN. 👻"
         }
       ],
       "metodo": "Temáticas y tipos de hook se detectan por palabras clave en el caption; una publicación puede tener varias temáticas. Medianas calculadas solo con valores disponibles.",
@@ -1071,6 +1071,86 @@
       ]
     },
     "seguidores_diarios": [
+      {
+        "fecha": "2026-06-22",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 230,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-23",
+        "ganados": 0,
+        "perdidos": 1,
+        "neto": -1,
+        "total_estimado": 230,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-24",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-25",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-26",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-27",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-28",
+        "ganados": 1,
+        "perdidos": 1,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-29",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-06-30",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2026-07-01",
+        "ganados": 0,
+        "perdidos": 0,
+        "neto": 0,
+        "total_estimado": 229,
+        "estado": "completo"
+      },
       {
         "fecha": "2026-07-02",
         "ganados": 0,

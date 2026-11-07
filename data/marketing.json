@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generado": "2026-11-06T18:01:20Z",
+  "generado": "2026-11-07T16:53:31Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
       "usuario": "boticlick.cl",
-      "seguidores": 1137
+      "seguidores": 1136
     },
     "ventana_dias": 90,
     "publicaciones": [
@@ -16,14 +16,14 @@
         "caption": "QUEREMOS DEJAR MÁS HISTORIAS QUE RESIDUOS. 🌱\n\nHace tiempo queríamos dar este paso.\n\nLo pensamos, lo replanteamos y encontramos una forma de hacerlo pensando también en el lugar que compartimos.\n\nPorque queremos seguir siendo parte de sus mejores momentos, pero también aportar, a nuestra manera, al cuidado de nuestro entorno.\n\nMUY PRONTO. 🖤♻️",
         "permalink": "https://www.instagram.com/p/DfaDzAkEYGA/",
         "imagen": "media/p_0da267e3811a4c23.webp",
-        "alcance": 49,
-        "visualizaciones": 115,
-        "me_gusta": 5,
+        "alcance": 140,
+        "visualizaciones": 345,
+        "me_gusta": 9,
         "comentarios": 0,
         "compartidos": 1,
         "guardados": 0,
-        "interacciones": 9,
-        "tasa_interaccion": 0.1837,
+        "interacciones": 14,
+        "tasa_interaccion": 0.1,
         "tematicas": [],
         "tipos_hook": []
       },
@@ -35,7 +35,7 @@
         "permalink": "https://www.instagram.com/reel/DfNnKo0TtqU/",
         "imagen": "media/p_78e05bcdddfe312d.webp",
         "alcance": 504,
-        "visualizaciones": 828,
+        "visualizaciones": 831,
         "me_gusta": 22,
         "comentarios": 2,
         "compartidos": 12,
@@ -57,14 +57,14 @@
         "caption": "🎃¡MAÑANA EL DISFRAZ SE ESTRENA DONDE PARTE EL CARRETE! 👻\n\n🎭 Ven disfrazado, disfruta el ambiente de Halloween y prepárate para el carrete con nosotros. 🔥\n\n📍 Av. Brasil 532, Romeral\n\n🎃 ¡TE ESPERAMOS MAÑANA!",
         "permalink": "https://www.instagram.com/reel/DfH3yQnz_CF/",
         "imagen": "media/p_e87628711ca0f19f.webp",
-        "alcance": 426,
-        "visualizaciones": 626,
+        "alcance": 428,
+        "visualizaciones": 627,
         "me_gusta": 11,
         "comentarios": 2,
         "compartidos": 2,
         "guardados": 0,
         "interacciones": 20,
-        "tasa_interaccion": 0.0469,
+        "tasa_interaccion": 0.0467,
         "tematicas": [
           "ocasion_evento"
         ],
@@ -189,13 +189,13 @@
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 784850,
-        "visualizaciones": 910004,
-        "me_gusta": 93604,
-        "comentarios": 1129,
-        "compartidos": 25969,
-        "guardados": 3889,
-        "interacciones": 127449,
+        "alcance": 785961,
+        "visualizaciones": 911290,
+        "me_gusta": 93736,
+        "comentarios": 1131,
+        "compartidos": 25999,
+        "guardados": 3894,
+        "interacciones": 127624,
         "tasa_interaccion": 0.1624,
         "tematicas": [
           "promocion"
@@ -211,14 +211,14 @@
         "caption": "SI HASTA ÉL VINO… 👀💀 POR ALGO SERÁ. 😎\n\n¿Y tú qué estás esperando?\n\n📍 Av. Brasil 532, #Romeral",
         "permalink": "https://www.instagram.com/reel/DeH_C_8TGsZ/",
         "imagen": "media/p_4ab98f5e09d1cb3e.webp",
-        "alcance": 1430,
-        "visualizaciones": 2006,
+        "alcance": 1432,
+        "visualizaciones": 2007,
         "me_gusta": 33,
         "comentarios": 1,
         "compartidos": 2,
         "guardados": 2,
         "interacciones": 43,
-        "tasa_interaccion": 0.0301,
+        "tasa_interaccion": 0.03,
         "tematicas": [
           "vino_espumante"
         ],
@@ -233,8 +233,8 @@
         "caption": "LAS APARIENCIAS ENGAÑAN. 👻\n\nY Mr. Boo lo sabe.\nPor eso se hace el tierno.\nSe hace el simpático.\nSe hace la “guagua”.\n\nHasta que se le olvida actuar. 😂\n\nVengan a conocerlo a Boticlick.\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeAIOcEzr04/",
         "imagen": "media/p_de6ef325f50ae93b.webp",
-        "alcance": 1370,
-        "visualizaciones": 1851,
+        "alcance": 1372,
+        "visualizaciones": 1854,
         "me_gusta": 22,
         "comentarios": 5,
         "compartidos": 3,
@@ -340,7 +340,7 @@
         "permalink": "https://www.instagram.com/reel/Dc8_MxhT9qB/",
         "imagen": "media/p_0260831e48a21644.webp",
         "alcance": 1127,
-        "visualizaciones": 1746,
+        "visualizaciones": 1747,
         "me_gusta": 31,
         "comentarios": 3,
         "compartidos": 12,
@@ -483,7 +483,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 784850,
+          "valor": 785961,
           "posicion": 1
         },
         {
@@ -493,7 +493,7 @@
         },
         {
           "id": "p_4ab98f5e09d1cb3e",
-          "valor": 1430,
+          "valor": 1432,
           "posicion": 3
         },
         {
@@ -503,7 +503,7 @@
         },
         {
           "id": "p_de6ef325f50ae93b",
-          "valor": 1370,
+          "valor": 1372,
           "posicion": 5
         },
         {
@@ -535,7 +535,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 910004,
+          "valor": 911290,
           "posicion": 1
         },
         {
@@ -550,17 +550,17 @@
         },
         {
           "id": "p_4ab98f5e09d1cb3e",
-          "valor": 2006,
+          "valor": 2007,
           "posicion": 4
         },
         {
           "id": "p_de6ef325f50ae93b",
-          "valor": 1851,
+          "valor": 1854,
           "posicion": 5
         },
         {
           "id": "p_0260831e48a21644",
-          "valor": 1746,
+          "valor": 1747,
           "posicion": 6
         },
         {
@@ -591,55 +591,55 @@
           "posicion": 1
         },
         {
+          "id": "p_0da267e3811a4c23",
+          "valor": 0.1,
+          "posicion": 2
+        },
+        {
           "id": "p_0d90ef892e101041",
           "valor": 0.0947,
-          "posicion": 2
+          "posicion": 3
         },
         {
           "id": "p_78e05bcdddfe312d",
           "valor": 0.0893,
-          "posicion": 3
+          "posicion": 4
         },
         {
           "id": "p_bbe8ec946b1f457e",
           "valor": 0.0811,
-          "posicion": 4
+          "posicion": 5
         },
         {
           "id": "p_382bba110281c465",
           "valor": 0.0669,
-          "posicion": 5
+          "posicion": 6
         },
         {
           "id": "p_3bdc7a3fe9b3471a",
           "valor": 0.0632,
-          "posicion": 6
+          "posicion": 7
         },
         {
           "id": "p_a1352dced47eb8d2",
           "valor": 0.0518,
-          "posicion": 7
+          "posicion": 8
         },
         {
           "id": "p_0260831e48a21644",
           "valor": 0.0488,
-          "posicion": 8
+          "posicion": 9
         },
         {
           "id": "p_12fdf6b057834b66",
           "valor": 0.0475,
-          "posicion": 9
-        },
-        {
-          "id": "p_e87628711ca0f19f",
-          "valor": 0.0469,
           "posicion": 10
         }
       ],
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 25969,
+          "valor": 25999,
           "posicion": 1
         },
         {
@@ -691,7 +691,7 @@
       "guardados": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 3889,
+          "valor": 3894,
           "posicion": 1
         },
         {
@@ -778,7 +778,7 @@
             "n": 8,
             "mediana_alcance": 687.0,
             "mediana_visualizaciones": 1116.5,
-            "mediana_tasa_interaccion": 0.0494,
+            "mediana_tasa_interaccion": 0.0493,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
           },
@@ -786,7 +786,7 @@
             "grupo": "domingo",
             "n": 4,
             "mediana_alcance": 1607.5,
-            "mediana_visualizaciones": 2269.0,
+            "mediana_visualizaciones": 2269.5,
             "mediana_tasa_interaccion": 0.069,
             "mediana_compartidos": 12.0,
             "mediana_guardados": 2.0
@@ -812,8 +812,8 @@
           {
             "grupo": "lunes",
             "n": 2,
-            "mediana_alcance": 1051.0,
-            "mediana_visualizaciones": 1501.0,
+            "mediana_alcance": 1052.0,
+            "mediana_visualizaciones": 1501.5,
             "mediana_tasa_interaccion": 0.0299,
             "mediana_compartidos": 2.0,
             "mediana_guardados": 1.0
@@ -871,7 +871,7 @@
             "grupo": "sin_tema_detectado",
             "n": 6,
             "mediana_alcance": 614.5,
-            "mediana_visualizaciones": 1419.0,
+            "mediana_visualizaciones": 1420.5,
             "mediana_tasa_interaccion": 0.0528,
             "mediana_compartidos": 2.0,
             "mediana_guardados": 0.0
@@ -879,8 +879,8 @@
           {
             "grupo": "ocasion_evento",
             "n": 6,
-            "mediana_alcance": 444.5,
-            "mediana_visualizaciones": 632.0,
+            "mediana_alcance": 445.5,
+            "mediana_visualizaciones": 632.5,
             "mediana_tasa_interaccion": 0.0497,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
@@ -898,7 +898,7 @@
             "grupo": "novedad",
             "n": 4,
             "mediana_alcance": 815.5,
-            "mediana_visualizaciones": 1245.0,
+            "mediana_visualizaciones": 1246.5,
             "mediana_tasa_interaccion": 0.0452,
             "mediana_compartidos": 6.5,
             "mediana_guardados": 1.0
@@ -924,9 +924,9 @@
           {
             "grupo": "vino_espumante",
             "n": 1,
-            "mediana_alcance": 1430,
-            "mediana_visualizaciones": 2006,
-            "mediana_tasa_interaccion": 0.0301,
+            "mediana_alcance": 1432,
+            "mediana_visualizaciones": 2007,
+            "mediana_tasa_interaccion": 0.03,
             "mediana_compartidos": 2,
             "mediana_guardados": 2
           },
@@ -963,7 +963,7 @@
             "grupo": "otro",
             "n": 6,
             "mediana_alcance": 799.0,
-            "mediana_visualizaciones": 1460.0,
+            "mediana_visualizaciones": 1461.5,
             "mediana_tasa_interaccion": 0.056,
             "mediana_compartidos": 2.5,
             "mediana_guardados": 0.0
@@ -973,7 +973,7 @@
             "n": 4,
             "mediana_alcance": 512.5,
             "mediana_visualizaciones": 1075.5,
-            "mediana_tasa_interaccion": 0.0428,
+            "mediana_tasa_interaccion": 0.0427,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 1.5
           },
@@ -1000,18 +1000,18 @@
           {
             "grupo": "medio (100-300)",
             "n": 8,
-            "mediana_alcance": 405.5,
+            "mediana_alcance": 406.5,
             "mediana_visualizaciones": 778.0,
-            "mediana_tasa_interaccion": 0.0494,
+            "mediana_tasa_interaccion": 0.0493,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
           },
           {
             "grupo": "corto (<100)",
             "n": 3,
-            "mediana_alcance": 1430,
-            "mediana_visualizaciones": 2006,
-            "mediana_tasa_interaccion": 0.0301,
+            "mediana_alcance": 1432,
+            "mediana_visualizaciones": 2007,
+            "mediana_tasa_interaccion": 0.03,
             "mediana_compartidos": 2,
             "mediana_guardados": 2
           }
@@ -1036,7 +1036,7 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.138, n=5) que «ocasion_evento» (444, n=6)."
+          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.138, n=5) que «ocasion_evento» (446, n=6)."
         },
         {
           "tipo": "hipotesis",
@@ -1089,6 +1089,622 @@
       ]
     },
     "seguidores_diarios": [
+      {
+        "fecha": "2025-05-31",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-01",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-02",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-03",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-04",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-05",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-06",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-07",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-08",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-09",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-10",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-11",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-12",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-13",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-14",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-15",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-16",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-17",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-18",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-19",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-20",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-21",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-22",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-23",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-24",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-25",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-26",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-27",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-28",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-29",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-06-30",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-01",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-02",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-03",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-04",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-05",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-06",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-07",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-08",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-09",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-10",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-11",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-12",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-13",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-14",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-15",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-16",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-17",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-18",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-19",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-20",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-21",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-22",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-23",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-24",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-25",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-26",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-27",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-28",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-29",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-30",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-07-31",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-01",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-02",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-03",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-04",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-05",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-06",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-07",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-08",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-09",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-10",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-11",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-12",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-13",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-14",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
+      {
+        "fecha": "2025-08-15",
+        "ganados": null,
+        "perdidos": null,
+        "neto": null,
+        "total_estimado": null,
+        "estado": "completo"
+      },
       {
         "fecha": "2025-08-16",
         "ganados": null,
@@ -4655,10 +5271,18 @@
         "perdidos": 1,
         "neto": 5,
         "total_estimado": null,
-        "estado": "provisional"
+        "estado": "completo"
       },
       {
         "fecha": "2026-11-05",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": null,
+        "estado": "provisional"
+      },
+      {
+        "fecha": "2026-11-06",
         "ganados": null,
         "perdidos": null,
         "neto": null,

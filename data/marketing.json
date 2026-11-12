@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-11T18:45:43Z",
+  "generado": "2026-11-12T18:57:51Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
@@ -16,14 +16,14 @@
         "caption": "HASTA SERVIRLA SE SIENTE ÉPICO. 🎬🧊\n\nCon este calor, escuchar cómo cae al vaso ya te da una sed… 😂🥵\n\nMenos mal que en Boticlick las tenemos bien frías, listas para llevar. 🍻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/Dfk6wa6TXME/",
         "imagen": "media/p_7bf4a8b19773ecb2.webp",
-        "alcance": 129,
-        "visualizaciones": 183,
+        "alcance": 140,
+        "visualizaciones": 204,
         "me_gusta": 6,
         "comentarios": 0,
         "compartidos": 0,
         "guardados": 1,
         "interacciones": 11,
-        "tasa_interaccion": 0.0853,
+        "tasa_interaccion": 0.0786,
         "tematicas": [],
         "tipos_hook": []
       },
@@ -34,14 +34,14 @@
         "caption": "QUEREMOS DEJAR MÁS HISTORIAS QUE RESIDUOS. 🌱\n\nHace tiempo queríamos dar este paso.\n\nLo pensamos, lo replanteamos y encontramos una forma de hacerlo pensando también en el lugar que compartimos.\n\nPorque queremos seguir siendo parte de sus mejores momentos, pero también aportar, a nuestra manera, al cuidado de nuestro entorno.\n\nMUY PRONTO. 🖤♻️",
         "permalink": "https://www.instagram.com/p/DfaDzAkEYGA/",
         "imagen": "media/p_0da267e3811a4c23.webp",
-        "alcance": 156,
-        "visualizaciones": 402,
+        "alcance": 157,
+        "visualizaciones": 408,
         "me_gusta": 9,
         "comentarios": 0,
         "compartidos": 1,
         "guardados": 0,
         "interacciones": 14,
-        "tasa_interaccion": 0.0897,
+        "tasa_interaccion": 0.0892,
         "tematicas": [],
         "tipos_hook": []
       },
@@ -53,7 +53,7 @@
         "permalink": "https://www.instagram.com/reel/DfNnKo0TtqU/",
         "imagen": "media/p_78e05bcdddfe312d.webp",
         "alcance": 511,
-        "visualizaciones": 842,
+        "visualizaciones": 844,
         "me_gusta": 23,
         "comentarios": 2,
         "compartidos": 13,
@@ -76,7 +76,7 @@
         "permalink": "https://www.instagram.com/reel/DfH3yQnz_CF/",
         "imagen": "media/p_e87628711ca0f19f.webp",
         "alcance": 431,
-        "visualizaciones": 631,
+        "visualizaciones": 633,
         "me_gusta": 11,
         "comentarios": 2,
         "compartidos": 2,
@@ -207,13 +207,13 @@
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 789397,
-        "visualizaciones": 915304,
-        "me_gusta": 94143,
-        "comentarios": 1134,
-        "compartidos": 26088,
+        "alcance": 789987,
+        "visualizaciones": 915986,
+        "me_gusta": 94206,
+        "comentarios": 1135,
+        "compartidos": 26112,
         "guardados": 3918,
-        "interacciones": 128170,
+        "interacciones": 128262,
         "tasa_interaccion": 0.1624,
         "tematicas": [
           "promocion"
@@ -424,7 +424,7 @@
         "permalink": "https://www.instagram.com/p/Dcmb47GlNWc/",
         "imagen": "media/p_bbe8ec946b1f457e.webp",
         "alcance": 791,
-        "visualizaciones": 2106,
+        "visualizaciones": 2107,
         "me_gusta": 45,
         "comentarios": 3,
         "compartidos": 8,
@@ -479,7 +479,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 789397,
+          "valor": 789987,
           "posicion": 1
         },
         {
@@ -531,7 +531,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 915304,
+          "valor": 915986,
           "posicion": 1
         },
         {
@@ -541,7 +541,7 @@
         },
         {
           "id": "p_bbe8ec946b1f457e",
-          "valor": 2106,
+          "valor": 2107,
           "posicion": 3
         },
         {
@@ -598,17 +598,17 @@
         },
         {
           "id": "p_0da267e3811a4c23",
-          "valor": 0.0897,
+          "valor": 0.0892,
           "posicion": 4
-        },
-        {
-          "id": "p_7bf4a8b19773ecb2",
-          "valor": 0.0853,
-          "posicion": 5
         },
         {
           "id": "p_bbe8ec946b1f457e",
           "valor": 0.0809,
+          "posicion": 5
+        },
+        {
+          "id": "p_7bf4a8b19773ecb2",
+          "valor": 0.0786,
           "posicion": 6
         },
         {
@@ -635,7 +635,7 @@
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 26088,
+          "valor": 26112,
           "posicion": 1
         },
         {
@@ -868,7 +868,7 @@
             "n": 6,
             "mediana_alcance": 560.0,
             "mediana_visualizaciones": 1335.0,
-            "mediana_tasa_interaccion": 0.0739,
+            "mediana_tasa_interaccion": 0.0727,
             "mediana_compartidos": 2.0,
             "mediana_guardados": 0.0
           },
@@ -876,7 +876,7 @@
             "grupo": "ocasion_evento",
             "n": 6,
             "mediana_alcance": 447.5,
-            "mediana_visualizaciones": 635.5,
+            "mediana_visualizaciones": 636.5,
             "mediana_tasa_interaccion": 0.0496,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
@@ -894,7 +894,7 @@
             "grupo": "novedad",
             "n": 4,
             "mediana_alcance": 821.0,
-            "mediana_visualizaciones": 1254.5,
+            "mediana_visualizaciones": 1255.5,
             "mediana_tasa_interaccion": 0.0451,
             "mediana_compartidos": 6.5,
             "mediana_guardados": 1.0
@@ -960,7 +960,7 @@
             "n": 7,
             "mediana_alcance": 791,
             "mediana_visualizaciones": 1073,
-            "mediana_tasa_interaccion": 0.0809,
+            "mediana_tasa_interaccion": 0.0786,
             "mediana_compartidos": 2,
             "mediana_guardados": 0
           },
@@ -1040,7 +1040,7 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el tipo de hook «otro» tiene mayor mediana de tasa de interacción (8.1%, n=7) que «intriga» (4.5%, n=12)."
+          "texto": "En la muestra, el tipo de hook «otro» tiene mayor mediana de tasa de interacción (7.9%, n=7) que «intriga» (4.5%, n=12)."
         },
         {
           "tipo": "hipotesis",
@@ -6915,7 +6915,7 @@
         "perdidos": 1,
         "neto": 1,
         "total_estimado": 1138,
-        "estado": "provisional"
+        "estado": "completo"
       },
       {
         "fecha": "2026-11-10",
@@ -6923,6 +6923,14 @@
         "perdidos": 1,
         "neto": -1,
         "total_estimado": 1139,
+        "estado": "provisional"
+      },
+      {
+        "fecha": "2026-11-11",
+        "ganados": 2,
+        "perdidos": 1,
+        "neto": 1,
+        "total_estimado": 1138,
         "estado": "provisional"
       }
     ]
@@ -6938,20 +6946,14 @@
         "interacciones": 2014
       },
       "90d": {
-        "alcance": 52245,
-        "impresiones": 159950,
-        "ctr": 2.6083,
-        "ctr_enlace": 2.1932,
-        "interacciones": 18614
+        "alcance": 51311,
+        "impresiones": 153510,
+        "ctr": 2.6702,
+        "ctr_enlace": 2.2376,
+        "interacciones": 18539
       }
     },
     "tendencia_diaria": [
-      {
-        "fecha": "2026-08-13",
-        "alcance": 4493,
-        "impresiones": 6440,
-        "ctr_enlace": 1.1335
-      },
       {
         "fecha": "2026-08-14",
         "alcance": 4856,
@@ -7468,11 +7470,11 @@
           "7d": null,
           "30d": null,
           "90d": {
-            "alcance": 4764,
-            "impresiones": 10103,
-            "ctr": 1.4451,
-            "ctr_enlace": 1.4451,
-            "interacciones": 146
+            "alcance": 3667,
+            "impresiones": 6447,
+            "ctr": 1.5356,
+            "ctr_enlace": 1.5356,
+            "interacciones": 99
           }
         }
       },
@@ -7488,11 +7490,11 @@
           "7d": null,
           "30d": null,
           "90d": {
-            "alcance": 4826,
-            "impresiones": 7533,
-            "ctr": 1.3009,
-            "ctr_enlace": 1.2744,
-            "interacciones": 104
+            "alcance": 3538,
+            "impresiones": 4749,
+            "ctr": 1.5161,
+            "ctr_enlace": 1.474,
+            "interacciones": 76
           }
         }
       },
@@ -7827,9 +7829,9 @@
           "grupo_objetivo": "Tráfico",
           "formato": "carrusel",
           "n": 5,
-          "mediana_ctr": 1.4554,
-          "mediana_ctr_enlace": 1.4451,
-          "mediana_alcance": 4826
+          "mediana_ctr": 1.5356,
+          "mediana_ctr_enlace": 1.5356,
+          "mediana_alcance": 3667
         }
       ],
       "limitaciones": [

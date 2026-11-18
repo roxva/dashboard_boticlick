@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-17T19:52:55Z",
+  "generado": "2026-11-18T19:28:40Z",
   "fuente": "Meta Marketing API e Instagram Graph API",
   "organico": {
     "cuenta": {
@@ -10,20 +10,40 @@
     "ventana_dias": 90,
     "publicaciones": [
       {
+        "id": "p_ade0eb0b07d994d0",
+        "fecha": "2026-11-17",
+        "formato": "carrusel",
+        "caption": "ACÁ NO COMPRAS PARA ENFRIAR. COMPRAS PARA DISFRUTAR. 👀🧊\n\nNada de llegar a casa y esperar horas a que se enfríe.\n\nEn Boticlick todo está bien helado, como debe ser. 🥶😎",
+        "permalink": "https://www.instagram.com/p/Df266FYlCaI/",
+        "imagen": "media/p_ade0eb0b07d994d0.webp",
+        "alcance": 143,
+        "visualizaciones": 274,
+        "me_gusta": 5,
+        "comentarios": 0,
+        "compartidos": 1,
+        "guardados": 0,
+        "interacciones": 10,
+        "tasa_interaccion": 0.0699,
+        "tematicas": [],
+        "tipos_hook": [
+          "intriga"
+        ]
+      },
+      {
         "id": "p_aceb1f08095f8431",
         "fecha": "2026-11-13",
         "formato": "imagen",
         "caption": "UNA MENTIRA MUY NUESTRA. 😂🖤\n\nHace tiempo que veníamos con esta idea dando vueltas y hoy por fin se hizo realidad.\n\n¡Llegaron nuestras primeras bolsas reutilizables! 🙌\n\nY no podíamos partir con otra frase que no fuera esta:\n\n“LA ÚLTIMA Y NOS VAMOS.” 🍻\n\nUna frase que más de alguno ha dicho… y pocos han cumplido. 😂\n\nEsta es nuestra primera edición, pero no será la última. Queremos seguir creando nuevas frases, con ese humor tan nuestro, para que cada bolsa tenga su propia historia.\n\nPorque en Boticlick queremos dejar más historias que residuos. ♻️\n\nBOTICLICK BAGS · EDICIÓN Nº 01\n\n🕖 ¡DESDE HOY A LAS 19:00 HRS DISPONIBLES EN BOTICLICK!\n\nLa primera de muchas. 🔥\n\n#Boticlick #Romeral #MásQueUnaBotillería",
         "permalink": "https://www.instagram.com/p/DfshfQwTLLN/",
         "imagen": "media/p_aceb1f08095f8431.webp",
-        "alcance": 170,
+        "alcance": 171,
         "visualizaciones": 338,
         "me_gusta": 8,
         "comentarios": 0,
         "compartidos": 1,
         "guardados": 1,
         "interacciones": 12,
-        "tasa_interaccion": 0.0706,
+        "tasa_interaccion": 0.0702,
         "tematicas": [
           "novedad"
         ],
@@ -55,7 +75,7 @@
         "permalink": "https://www.instagram.com/p/DfaDzAkEYGA/",
         "imagen": "media/p_0da267e3811a4c23.webp",
         "alcance": 164,
-        "visualizaciones": 430,
+        "visualizaciones": 431,
         "me_gusta": 9,
         "comentarios": 0,
         "compartidos": 1,
@@ -72,14 +92,14 @@
         "caption": "TODO PARTIÓ CON UNA IDEA…Y ROMERAL NOS SORPRENDIÓ. 👻🎃💀❤️\n\nLo que imaginamos como una noche diferente en Boticlick terminó superando todas nuestras expectativas.\n\nNuestra botillería se llenó de niños, adultos, familias y disfraces increíbles. Entre decoraciones, personajes, fotos y muchas sonrisas, vivimos algo que jamás imaginamos ver en una boti. 👻\n\nUNA NOCHE QUE NO VAMOS A OLVIDAR. ❤️\n\nGracias a cada persona que llegó, participó y fue parte de esta experiencia.\n\nPorque en Boticlick queremos que venir a la boti sea mucho más que venir a comprar.\n\nNos vemos en Boticlick\n📍 Av. Brasil 532, Romeral\n\n#Boticlick #Romeral #Halloween #chile",
         "permalink": "https://www.instagram.com/reel/DfNnKo0TtqU/",
         "imagen": "media/p_78e05bcdddfe312d.webp",
-        "alcance": 518,
-        "visualizaciones": 861,
+        "alcance": 521,
+        "visualizaciones": 863,
         "me_gusta": 23,
         "comentarios": 2,
         "compartidos": 13,
         "guardados": 2,
         "interacciones": 47,
-        "tasa_interaccion": 0.0907,
+        "tasa_interaccion": 0.0902,
         "tematicas": [
           "ocasion_evento",
           "novedad"
@@ -95,14 +115,14 @@
         "caption": "🎃¡MAÑANA EL DISFRAZ SE ESTRENA DONDE PARTE EL CARRETE! 👻\n\n🎭 Ven disfrazado, disfruta el ambiente de Halloween y prepárate para el carrete con nosotros. 🔥\n\n📍 Av. Brasil 532, Romeral\n\n🎃 ¡TE ESPERAMOS MAÑANA!",
         "permalink": "https://www.instagram.com/reel/DfH3yQnz_CF/",
         "imagen": "media/p_e87628711ca0f19f.webp",
-        "alcance": 439,
-        "visualizaciones": 644,
+        "alcance": 441,
+        "visualizaciones": 646,
         "me_gusta": 11,
         "comentarios": 2,
         "compartidos": 2,
         "guardados": 0,
         "interacciones": 20,
-        "tasa_interaccion": 0.0456,
+        "tasa_interaccion": 0.0454,
         "tematicas": [
           "ocasion_evento"
         ],
@@ -117,14 +137,14 @@
         "caption": "ESTO NO ES LO DE SIEMPRE. 👀🔥\n\nEn Boticlick, venir a comprar siempre tiene algo más. Y este Halloween no será la excepción. 🎃\n\nEste 31 de octubre, pasa por tus promos favoritas, ven disfrazado y aprovecha de sacarte una foto con nuestros nuevos personajes. 👻📸\n\nPorque el carrete también empieza por dónde eliges comprar. 🍻\nEl carrete parte en Boticlick 😎\n\n¿Con quién vienes este 31? 👀\n\n📍 Av. Brasil 532, Romeral\n\n#Romeral #Halloween #Boticlick",
         "permalink": "https://www.instagram.com/reel/DfAwY0izpIL/",
         "imagen": "media/p_aade23287b6bdc22.webp",
-        "alcance": 1394,
-        "visualizaciones": 1676,
+        "alcance": 1398,
+        "visualizaciones": 1678,
         "me_gusta": 20,
         "comentarios": 1,
         "compartidos": 1,
         "guardados": 0,
         "interacciones": 26,
-        "tasa_interaccion": 0.0187,
+        "tasa_interaccion": 0.0186,
         "tematicas": [
           "promocion",
           "ocasion_evento",
@@ -141,8 +161,8 @@
         "caption": "MENOS MAL TIENE BUENOS AMIGOS. 😂📲**\n\nDejó a la cajera sin entender nada y se fue directo a Boticlick. 😂\n\nPORQUE EL SÚPER LO PUEDE TENER TODO… PERO NO LAS MEJORES PROMOS. 🔥\n\n🥃 Nos vemos en Boticlick.\n\n📍 Av. Brasil 532, #Romeral\n\n#Chile",
         "permalink": "https://www.instagram.com/reel/De2FLVLTx7M/",
         "imagen": "media/p_4a0a17286b616c05.webp",
-        "alcance": 822,
-        "visualizaciones": 1082,
+        "alcance": 823,
+        "visualizaciones": 1084,
         "me_gusta": 18,
         "comentarios": 0,
         "compartidos": 2,
@@ -175,65 +195,19 @@
         "tipos_hook": []
       },
       {
-        "id": "p_12fdf6b057834b66",
-        "fecha": "2026-10-14",
-        "formato": "reel",
-        "caption": "¿Y SI TU PRÓXIMA COMPRA TERMINA SIENDO UNA HISTORIA QUE CONTAR? 👀💀\n\nEn Boticlick, las buenas promos, tus productos favoritos y la buena onda son solo parte de la experiencia.\n\nPorque nunca sabes con qué te puedes encontrar. 😂\n\nNo esperes al 31. Ven desde ya a vivir la experiencia Boticlick.\n\nY este 31 DE OCTUBRE, tenemos una invitación especial. 🎃\n\nVengan disfrazados, vivan la experiencia y aprovechen de llevarse todo lo que necesitan para su noche de Halloween.\n\nEl carrete empieza en Boticlick. 👀🍻\n\n📍 Av. Brasil 532, #Romeral",
-        "permalink": "https://www.instagram.com/reel/DefZUsVT6He/",
-        "imagen": "media/p_12fdf6b057834b66.webp",
-        "alcance": 475,
-        "visualizaciones": 657,
-        "me_gusta": 13,
-        "comentarios": 0,
-        "compartidos": 5,
-        "guardados": 0,
-        "interacciones": 24,
-        "tasa_interaccion": 0.0505,
-        "tematicas": [
-          "promocion",
-          "ocasion_evento"
-        ],
-        "tipos_hook": [
-          "pregunta",
-          "intriga"
-        ]
-      },
-      {
-        "id": "p_e782cbdbcd5c2198",
-        "fecha": "2026-10-12",
-        "formato": "reel",
-        "caption": "UNA COSA ES VERLO. OTRA MUY DISTINTA ES VIVIRLO. 👀💀\n\nVENGAN A SER PARTE.\n\nEn Boticlick, las sorpresas no tienen fecha ni horario.\n\nPero hay una fecha que sí queremos que recuerden.\n\n31 DE OCTUBRE. 🎃💀\n\nVengan disfrazados y vivan la experiencia Boticlick.\n\nY si todavía no nos conocen… ¿qué están esperando?\n\n📍 Av. Brasil 532, Romeral",
-        "permalink": "https://www.instagram.com/reel/DeaPeefTDM1/",
-        "imagen": "media/p_e782cbdbcd5c2198.webp",
-        "alcance": 681,
-        "visualizaciones": 1005,
-        "me_gusta": 10,
-        "comentarios": 3,
-        "compartidos": 2,
-        "guardados": 0,
-        "interacciones": 20,
-        "tasa_interaccion": 0.0294,
-        "tematicas": [
-          "delivery_horario"
-        ],
-        "tipos_hook": [
-          "intriga"
-        ]
-      },
-      {
         "id": "p_eab49ed1b4e413d0",
         "fecha": "2026-10-11",
         "formato": "reel",
         "caption": "MIENTRAS TÚ SIGUES PASANDO DE LARGO, OTROS YA ESTÁN VIVIENDO LA EXPERIENCIA. 👀💀\n\nBuenas promos, tus productos favoritos, buena onda y una energía que hace diferente cada visita.\n\nPorque aquí no se trata solo de comprar. Se trata de vivir una experiencia diferente, donde hasta una visita rápida puede terminar en una historia que contar. \n\nÉl 🐕ya se atrevió a entrar… ¿y tú, vas a seguir mirando desde afuera? 👀👻\n\n📍 Av. Brasil 532, Romeral",
         "permalink": "https://www.instagram.com/reel/DeXGwrGzHas/",
         "imagen": "media/p_eab49ed1b4e413d0.webp",
-        "alcance": 793846,
-        "visualizaciones": 920455,
-        "me_gusta": 94641,
-        "comentarios": 1136,
-        "compartidos": 26179,
-        "guardados": 3925,
-        "interacciones": 128780,
+        "alcance": 794298,
+        "visualizaciones": 920977,
+        "me_gusta": 94690,
+        "comentarios": 1137,
+        "compartidos": 26182,
+        "guardados": 3926,
+        "interacciones": 128834,
         "tasa_interaccion": 0.1622,
         "tematicas": [
           "promocion"
@@ -481,7 +455,7 @@
     "metricas_disponibles": [
       {
         "tipo_contenido": "CAROUSEL_ALBUM/FEED",
-        "publicaciones": 3,
+        "publicaciones": 4,
         "metricas_sin_dato": []
       },
       {
@@ -491,7 +465,7 @@
       },
       {
         "tipo_contenido": "VIDEO/REELS",
-        "publicaciones": 14,
+        "publicaciones": 12,
         "metricas_sin_dato": []
       }
     ],
@@ -499,7 +473,7 @@
       "alcance": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 793846,
+          "valor": 794298,
           "posicion": 1
         },
         {
@@ -514,7 +488,7 @@
         },
         {
           "id": "p_aade23287b6bdc22",
-          "valor": 1394,
+          "valor": 1398,
           "posicion": 4
         },
         {
@@ -539,7 +513,7 @@
         },
         {
           "id": "p_4a0a17286b616c05",
-          "valor": 822,
+          "valor": 823,
           "posicion": 9
         },
         {
@@ -551,7 +525,7 @@
       "visualizaciones": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 920455,
+          "valor": 920977,
           "posicion": 1
         },
         {
@@ -586,7 +560,7 @@
         },
         {
           "id": "p_aade23287b6bdc22",
-          "valor": 1676,
+          "valor": 1678,
           "posicion": 8
         },
         {
@@ -613,7 +587,7 @@
         },
         {
           "id": "p_78e05bcdddfe312d",
-          "valor": 0.0907,
+          "valor": 0.0902,
           "posicion": 3
         },
         {
@@ -633,29 +607,29 @@
         },
         {
           "id": "p_aceb1f08095f8431",
-          "valor": 0.0706,
+          "valor": 0.0702,
           "posicion": 7
+        },
+        {
+          "id": "p_ade0eb0b07d994d0",
+          "valor": 0.0699,
+          "posicion": 8
         },
         {
           "id": "p_382bba110281c465",
           "valor": 0.0667,
-          "posicion": 8
+          "posicion": 9
         },
         {
           "id": "p_3bdc7a3fe9b3471a",
           "valor": 0.0632,
-          "posicion": 9
-        },
-        {
-          "id": "p_a1352dced47eb8d2",
-          "valor": 0.0516,
           "posicion": 10
         }
       ],
       "compartidos": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 26179,
+          "valor": 26182,
           "posicion": 1
         },
         {
@@ -679,35 +653,35 @@
           "posicion": 5
         },
         {
-          "id": "p_12fdf6b057834b66",
-          "valor": 5,
-          "posicion": 6
-        },
-        {
           "id": "p_de6ef325f50ae93b",
           "valor": 3,
-          "posicion": 7
+          "posicion": 6
         },
         {
           "id": "p_e87628711ca0f19f",
           "valor": 2,
-          "posicion": 8
+          "posicion": 7
         },
         {
           "id": "p_4a0a17286b616c05",
           "valor": 2,
+          "posicion": 8
+        },
+        {
+          "id": "p_4ab98f5e09d1cb3e",
+          "valor": 2,
           "posicion": 9
         },
         {
-          "id": "p_e782cbdbcd5c2198",
-          "valor": 2,
+          "id": "p_ade0eb0b07d994d0",
+          "valor": 1,
           "posicion": 10
         }
       ],
       "guardados": [
         {
           "id": "p_eab49ed1b4e413d0",
-          "valor": 3925,
+          "valor": 3926,
           "posicion": 1
         },
         {
@@ -762,12 +736,12 @@
         "formato": [
           {
             "grupo": "reel",
-            "n": 14,
-            "mediana_alcance": 1141.5,
-            "mediana_visualizaciones": 1584.5,
+            "n": 12,
+            "mediana_alcance": 1172.5,
+            "mediana_visualizaciones": 1710.5,
             "mediana_tasa_interaccion": 0.0313,
             "mediana_compartidos": 2.0,
-            "mediana_guardados": 0.5
+            "mediana_guardados": 1.0
           },
           {
             "grupo": "imagen",
@@ -780,12 +754,12 @@
           },
           {
             "grupo": "carrusel",
-            "n": 3,
-            "mediana_alcance": 330,
-            "mediana_visualizaciones": 816,
-            "mediana_tasa_interaccion": 0.0809,
-            "mediana_compartidos": 1,
-            "mediana_guardados": 0
+            "n": 4,
+            "mediana_alcance": 247.0,
+            "mediana_visualizaciones": 623.5,
+            "mediana_tasa_interaccion": 0.0754,
+            "mediana_compartidos": 1.0,
+            "mediana_guardados": 0.0
           }
         ],
         "dia_semana": [
@@ -793,46 +767,28 @@
             "grupo": "viernes",
             "n": 9,
             "mediana_alcance": 585,
-            "mediana_visualizaciones": 1082,
+            "mediana_visualizaciones": 1084,
             "mediana_tasa_interaccion": 0.0516,
             "mediana_compartidos": 1,
             "mediana_guardados": 0
+          },
+          {
+            "grupo": "martes",
+            "n": 4,
+            "mediana_alcance": 648.0,
+            "mediana_visualizaciones": 883.5,
+            "mediana_tasa_interaccion": 0.0511,
+            "mediana_compartidos": 0.5,
+            "mediana_guardados": 0.5
           },
           {
             "grupo": "domingo",
             "n": 4,
             "mediana_alcance": 1614.5,
             "mediana_visualizaciones": 2275.0,
-            "mediana_tasa_interaccion": 0.0696,
+            "mediana_tasa_interaccion": 0.0693,
             "mediana_compartidos": 12.5,
             "mediana_guardados": 2.0
-          },
-          {
-            "grupo": "martes",
-            "n": 3,
-            "mediana_alcance": 1147,
-            "mediana_visualizaciones": 1493,
-            "mediana_tasa_interaccion": 0.0323,
-            "mediana_compartidos": 0,
-            "mediana_guardados": 1
-          },
-          {
-            "grupo": "miércoles",
-            "n": 2,
-            "mediana_alcance": 430.0,
-            "mediana_visualizaciones": 699.0,
-            "mediana_tasa_interaccion": 0.046,
-            "mediana_compartidos": 3.0,
-            "mediana_guardados": 0.0
-          },
-          {
-            "grupo": "lunes",
-            "n": 2,
-            "mediana_alcance": 1058.5,
-            "mediana_visualizaciones": 1509.5,
-            "mediana_tasa_interaccion": 0.0297,
-            "mediana_compartidos": 2.0,
-            "mediana_guardados": 1.0
           },
           {
             "grupo": "sábado",
@@ -844,11 +800,29 @@
             "mediana_guardados": 0
           },
           {
+            "grupo": "lunes",
+            "n": 1,
+            "mediana_alcance": 1436,
+            "mediana_visualizaciones": 2014,
+            "mediana_tasa_interaccion": 0.0299,
+            "mediana_compartidos": 2,
+            "mediana_guardados": 2
+          },
+          {
             "grupo": "jueves",
             "n": 1,
             "mediana_alcance": 330,
             "mediana_visualizaciones": 816,
             "mediana_tasa_interaccion": 0.0667,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 0
+          },
+          {
+            "grupo": "miércoles",
+            "n": 1,
+            "mediana_alcance": 385,
+            "mediana_visualizaciones": 741,
+            "mediana_tasa_interaccion": 0.0416,
             "mediana_compartidos": 1,
             "mediana_guardados": 0
           }
@@ -857,20 +831,11 @@
           {
             "grupo": "tarde (12-19h)",
             "n": 18,
-            "mediana_alcance": 654.5,
-            "mediana_visualizaciones": 971.5,
-            "mediana_tasa_interaccion": 0.0511,
-            "mediana_compartidos": 2.0,
-            "mediana_guardados": 0.0
-          },
-          {
-            "grupo": "noche (19-6h)",
-            "n": 2,
-            "mediana_alcance": 939.5,
-            "mediana_visualizaciones": 1374.0,
-            "mediana_tasa_interaccion": 0.0272,
+            "mediana_alcance": 656.0,
+            "mediana_visualizaciones": 973.5,
+            "mediana_tasa_interaccion": 0.0591,
             "mediana_compartidos": 1.5,
-            "mediana_guardados": 0.5
+            "mediana_guardados": 0.0
           },
           {
             "grupo": "mañana (6-12h)",
@@ -880,44 +845,53 @@
             "mediana_tasa_interaccion": 0.0524,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 1.0
+          },
+          {
+            "grupo": "noche (19-6h)",
+            "n": 1,
+            "mediana_alcance": 1198,
+            "mediana_visualizaciones": 1743,
+            "mediana_tasa_interaccion": 0.025,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 1
           }
         ],
         "tematica": [
           {
             "grupo": "sin_tema_detectado",
-            "n": 6,
-            "mediana_alcance": 560.5,
-            "mediana_visualizaciones": 1338.5,
-            "mediana_tasa_interaccion": 0.0702,
-            "mediana_compartidos": 2.0,
-            "mediana_guardados": 0.0
-          },
-          {
-            "grupo": "ocasion_evento",
-            "n": 6,
-            "mediana_alcance": 457.0,
-            "mediana_visualizaciones": 650.5,
-            "mediana_tasa_interaccion": 0.0511,
-            "mediana_compartidos": 1.5,
-            "mediana_guardados": 0.0
+            "n": 7,
+            "mediana_alcance": 330,
+            "mediana_visualizaciones": 816,
+            "mediana_tasa_interaccion": 0.0699,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 0
           },
           {
             "grupo": "novedad",
             "n": 5,
-            "mediana_alcance": 518,
-            "mediana_visualizaciones": 861,
+            "mediana_alcance": 521,
+            "mediana_visualizaciones": 863,
             "mediana_tasa_interaccion": 0.0484,
             "mediana_compartidos": 1,
             "mediana_guardados": 1
           },
           {
-            "grupo": "promocion",
+            "grupo": "ocasion_evento",
             "n": 5,
-            "mediana_alcance": 1147,
-            "mediana_visualizaciones": 1493,
-            "mediana_tasa_interaccion": 0.0323,
-            "mediana_compartidos": 2,
+            "mediana_alcance": 441,
+            "mediana_visualizaciones": 646,
+            "mediana_tasa_interaccion": 0.0516,
+            "mediana_compartidos": 1,
             "mediana_guardados": 0
+          },
+          {
+            "grupo": "promocion",
+            "n": 4,
+            "mediana_alcance": 1272.5,
+            "mediana_visualizaciones": 1585.5,
+            "mediana_tasa_interaccion": 0.0313,
+            "mediana_compartidos": 1.5,
+            "mediana_guardados": 0.5
           },
           {
             "grupo": "sorteo",
@@ -927,15 +901,6 @@
             "mediana_tasa_interaccion": 0.0403,
             "mediana_compartidos": 1.0,
             "mediana_guardados": 1.5
-          },
-          {
-            "grupo": "delivery_horario",
-            "n": 2,
-            "mediana_alcance": 633.0,
-            "mediana_visualizaciones": 1085.0,
-            "mediana_tasa_interaccion": 0.0463,
-            "mediana_compartidos": 1.5,
-            "mediana_guardados": 1.0
           },
           {
             "grupo": "vino_espumante",
@@ -963,24 +928,33 @@
             "mediana_tasa_interaccion": 0.0416,
             "mediana_compartidos": 1,
             "mediana_guardados": 0
+          },
+          {
+            "grupo": "delivery_horario",
+            "n": 1,
+            "mediana_alcance": 585,
+            "mediana_visualizaciones": 1165,
+            "mediana_tasa_interaccion": 0.0632,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 2
           }
         ],
         "tipo_hook": [
           {
             "grupo": "intriga",
-            "n": 12,
-            "mediana_alcance": 908.5,
-            "mediana_visualizaciones": 1249.0,
-            "mediana_tasa_interaccion": 0.045,
-            "mediana_compartidos": 1.5,
-            "mediana_guardados": 0.5
+            "n": 11,
+            "mediana_alcance": 1136,
+            "mediana_visualizaciones": 1493,
+            "mediana_tasa_interaccion": 0.0484,
+            "mediana_compartidos": 1,
+            "mediana_guardados": 1
           },
           {
             "grupo": "otro",
             "n": 8,
             "mediana_alcance": 492.0,
-            "mediana_visualizaciones": 756.0,
-            "mediana_tasa_interaccion": 0.0722,
+            "mediana_visualizaciones": 757.5,
+            "mediana_tasa_interaccion": 0.072,
             "mediana_compartidos": 1.5,
             "mediana_guardados": 0.0
           },
@@ -989,38 +963,38 @@
             "n": 3,
             "mediana_alcance": 585,
             "mediana_visualizaciones": 1165,
-            "mediana_tasa_interaccion": 0.0456,
+            "mediana_tasa_interaccion": 0.0454,
             "mediana_compartidos": 1,
             "mediana_guardados": 1
           },
           {
             "grupo": "pregunta",
-            "n": 2,
-            "mediana_alcance": 805.5,
-            "mediana_visualizaciones": 1205.5,
-            "mediana_tasa_interaccion": 0.0495,
-            "mediana_compartidos": 8.5,
-            "mediana_guardados": 1.0
+            "n": 1,
+            "mediana_alcance": 1136,
+            "mediana_visualizaciones": 1754,
+            "mediana_tasa_interaccion": 0.0484,
+            "mediana_compartidos": 12,
+            "mediana_guardados": 2
           }
         ],
         "largo_caption": [
           {
-            "grupo": "largo (>300)",
-            "n": 11,
-            "mediana_alcance": 681,
-            "mediana_visualizaciones": 1165,
-            "mediana_tasa_interaccion": 0.0505,
-            "mediana_compartidos": 1,
-            "mediana_guardados": 1
+            "grupo": "medio (100-300)",
+            "n": 10,
+            "mediana_alcance": 357.5,
+            "mediana_visualizaciones": 693.5,
+            "mediana_tasa_interaccion": 0.0591,
+            "mediana_compartidos": 1.0,
+            "mediana_guardados": 0.0
           },
           {
-            "grupo": "medio (100-300)",
+            "grupo": "largo (>300)",
             "n": 9,
-            "mediana_alcance": 385,
-            "mediana_visualizaciones": 741,
-            "mediana_tasa_interaccion": 0.0516,
+            "mediana_alcance": 1136,
+            "mediana_visualizaciones": 1493,
+            "mediana_tasa_interaccion": 0.0632,
             "mediana_compartidos": 1,
-            "mediana_guardados": 0
+            "mediana_guardados": 1
           },
           {
             "grupo": "corto (<100)",
@@ -1036,15 +1010,15 @@
       "afirmaciones": [
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el formato «reel» tiene mayor mediana de alcance (1.142, n=14) que «imagen» (252, n=5)."
+          "texto": "En la muestra, el formato «reel» tiene mayor mediana de alcance (1.172, n=12) que «carrusel» (247, n=4)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar el formato «reel» para alcance; correlación observada, no prueba causalidad."
+          "texto": "Podría convenir priorizar el formato «reel» para alcance — muestra pequeña, validar con más publicaciones."
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el formato «carrusel» tiene mayor mediana de tasa de interacción (8.1%, n=3) que «reel» (3.1%, n=14)."
+          "texto": "En la muestra, el formato «carrusel» tiene mayor mediana de tasa de interacción (7.5%, n=4) que «reel» (3.1%, n=12)."
         },
         {
           "tipo": "hipotesis",
@@ -1052,27 +1026,27 @@
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.147, n=5) que «ocasion_evento» (457, n=6)."
+          "texto": "En la muestra, la temática «promocion» tiene mayor mediana de alcance (1.272, n=4) que «sin_tema_detectado» (330, n=7)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar la temática «promocion» para alcance; correlación observada, no prueba causalidad."
+          "texto": "Podría convenir priorizar la temática «promocion» para alcance — muestra pequeña, validar con más publicaciones."
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, el tipo de hook «otro» tiene mayor mediana de tasa de interacción (7.2%, n=8) que «intriga» (4.5%, n=12)."
+          "texto": "En la muestra, el tipo de hook «otro» tiene mayor mediana de tasa de interacción (7.2%, n=8) que «emoji_inicial» (4.5%, n=3)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar el tipo de hook «otro» para tasa de interacción; correlación observada, no prueba causalidad."
+          "texto": "Podría convenir priorizar el tipo de hook «otro» para tasa de interacción — muestra pequeña, validar con más publicaciones."
         },
         {
           "tipo": "comprobado",
-          "texto": "En la muestra, la franja horaria «noche (19-6h)» tiene mayor mediana de alcance (940, n=2) que «mañana (6-12h)» (485, n=2)."
+          "texto": "En la muestra, la franja horaria «tarde (12-19h)» tiene mayor mediana de alcance (656, n=18) que «mañana (6-12h)» (485, n=2)."
         },
         {
           "tipo": "hipotesis",
-          "texto": "Podría convenir priorizar la franja horaria «noche (19-6h)» para alcance — muestra pequeña, validar con más publicaciones."
+          "texto": "Podría convenir priorizar la franja horaria «tarde (12-19h)» para alcance — muestra pequeña, validar con más publicaciones."
         }
       ],
       "hooks_top_alcance": [
@@ -1101,7 +1075,7 @@
       "limitaciones": [
         "No se analizó visualmente el contenido de los videos ni de las imágenes: solo metadatos, portadas y captions.",
         "Las métricas por publicación son acumuladas desde su publicación: las más recientes tienen menos tiempo de exposición.",
-        "Muestra de 22 publicaciones; las diferencias entre grupos pequeños pueden ser azar."
+        "Muestra de 21 publicaciones; las diferencias entre grupos pequeños pueden ser azar."
       ]
     },
     "seguidores_diarios": [
@@ -3942,7 +3916,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3950,7 +3924,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3958,7 +3932,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3966,7 +3940,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3974,7 +3948,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3982,7 +3956,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3990,7 +3964,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -3998,7 +3972,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -4006,7 +3980,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -4014,7 +3988,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 218,
+        "total_estimado": 216,
         "estado": "completo"
       },
       {
@@ -4022,7 +3996,7 @@
         "ganados": 0,
         "perdidos": 2,
         "neto": -2,
-        "total_estimado": 217,
+        "total_estimado": 215,
         "estado": "completo"
       },
       {
@@ -4030,7 +4004,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4038,7 +4012,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4046,7 +4020,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4054,7 +4028,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4062,7 +4036,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4070,7 +4044,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4078,7 +4052,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 215,
+        "total_estimado": 213,
         "estado": "completo"
       },
       {
@@ -4086,7 +4060,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 214,
+        "total_estimado": 212,
         "estado": "completo"
       },
       {
@@ -4094,7 +4068,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 214,
+        "total_estimado": 212,
         "estado": "completo"
       },
       {
@@ -4102,7 +4076,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4110,7 +4084,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4118,7 +4092,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4126,7 +4100,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4134,7 +4108,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4142,7 +4116,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4150,7 +4124,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4158,7 +4132,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4166,7 +4140,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4174,7 +4148,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4182,7 +4156,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4190,7 +4164,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4198,7 +4172,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4206,7 +4180,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4214,7 +4188,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 213,
+        "total_estimado": 211,
         "estado": "completo"
       },
       {
@@ -4222,7 +4196,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4230,7 +4204,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4238,7 +4212,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 212,
+        "total_estimado": 210,
         "estado": "completo"
       },
       {
@@ -4246,7 +4220,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4254,7 +4228,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4262,7 +4236,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4270,7 +4244,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4278,7 +4252,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4286,7 +4260,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4294,7 +4268,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4302,7 +4276,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4310,7 +4284,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4318,7 +4292,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4326,7 +4300,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4334,7 +4308,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4342,7 +4316,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4350,7 +4324,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4358,7 +4332,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4366,7 +4340,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4374,7 +4348,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4382,7 +4356,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4390,7 +4364,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 211,
+        "total_estimado": 209,
         "estado": "completo"
       },
       {
@@ -4398,7 +4372,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4406,7 +4380,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4414,7 +4388,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4422,7 +4396,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4430,7 +4404,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4438,7 +4412,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4446,7 +4420,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4454,7 +4428,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4462,7 +4436,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4470,7 +4444,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4478,7 +4452,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4486,7 +4460,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4494,7 +4468,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4502,7 +4476,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4510,7 +4484,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4518,7 +4492,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4526,7 +4500,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4534,7 +4508,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4542,7 +4516,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4550,7 +4524,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4558,7 +4532,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4566,7 +4540,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4574,7 +4548,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4582,7 +4556,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4590,7 +4564,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4598,7 +4572,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4606,7 +4580,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4614,7 +4588,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4622,7 +4596,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4630,7 +4604,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4638,7 +4612,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4646,7 +4620,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4654,7 +4628,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4662,7 +4636,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4670,7 +4644,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4678,7 +4652,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4686,7 +4660,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4694,7 +4668,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4702,7 +4676,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4710,7 +4684,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4718,7 +4692,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4726,7 +4700,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4734,7 +4708,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4742,7 +4716,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4750,7 +4724,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4758,7 +4732,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4766,7 +4740,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4774,7 +4748,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4782,7 +4756,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4790,7 +4764,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4798,7 +4772,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4806,7 +4780,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4814,7 +4788,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4822,7 +4796,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4830,7 +4804,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4838,7 +4812,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4846,7 +4820,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4854,7 +4828,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4862,7 +4836,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4870,7 +4844,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 210,
+        "total_estimado": 208,
         "estado": "completo"
       },
       {
@@ -4878,7 +4852,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4886,7 +4860,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4894,7 +4868,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4902,7 +4876,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4910,7 +4884,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4918,7 +4892,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 209,
+        "total_estimado": 207,
         "estado": "completo"
       },
       {
@@ -4926,7 +4900,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4934,7 +4908,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4942,7 +4916,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -4950,7 +4924,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4958,7 +4932,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4966,7 +4940,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4974,7 +4948,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4982,7 +4956,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4990,7 +4964,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -4998,7 +4972,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5006,7 +4980,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5014,7 +4988,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5022,7 +4996,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5030,7 +5004,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5038,7 +5012,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5046,7 +5020,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5054,7 +5028,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5062,7 +5036,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5070,7 +5044,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5078,7 +5052,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5086,7 +5060,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5094,7 +5068,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5102,7 +5076,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5110,7 +5084,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5118,7 +5092,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5126,7 +5100,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5134,7 +5108,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5142,7 +5116,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5150,7 +5124,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5158,7 +5132,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5166,7 +5140,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5174,7 +5148,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5182,7 +5156,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5190,7 +5164,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5198,7 +5172,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5206,7 +5180,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5214,7 +5188,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5222,7 +5196,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5230,7 +5204,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5238,7 +5212,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5246,7 +5220,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5254,7 +5228,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5262,7 +5236,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5270,7 +5244,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5278,7 +5252,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5286,7 +5260,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5294,7 +5268,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5302,7 +5276,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5310,7 +5284,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5318,7 +5292,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5326,7 +5300,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5334,7 +5308,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 206,
+        "total_estimado": 204,
         "estado": "completo"
       },
       {
@@ -5342,7 +5316,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5350,7 +5324,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5358,7 +5332,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5366,7 +5340,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5374,7 +5348,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5382,7 +5356,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5390,7 +5364,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5398,7 +5372,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5406,7 +5380,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5414,7 +5388,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5422,7 +5396,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5430,7 +5404,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5438,7 +5412,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5446,7 +5420,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5454,7 +5428,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5462,7 +5436,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5470,7 +5444,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5478,7 +5452,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5486,7 +5460,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5494,7 +5468,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5502,7 +5476,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5510,7 +5484,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5518,7 +5492,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5526,7 +5500,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5534,7 +5508,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5542,7 +5516,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5550,7 +5524,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5558,7 +5532,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5566,7 +5540,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5574,7 +5548,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5582,7 +5556,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5590,7 +5564,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5598,7 +5572,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 207,
+        "total_estimado": 205,
         "estado": "completo"
       },
       {
@@ -5606,7 +5580,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5614,7 +5588,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5622,7 +5596,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5630,7 +5604,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5638,7 +5612,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5646,7 +5620,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5654,7 +5628,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5662,7 +5636,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5670,7 +5644,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5678,7 +5652,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5686,7 +5660,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5694,7 +5668,7 @@
         "ganados": 9,
         "perdidos": 1,
         "neto": 8,
-        "total_estimado": 208,
+        "total_estimado": 206,
         "estado": "completo"
       },
       {
@@ -5702,7 +5676,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 216,
+        "total_estimado": 214,
         "estado": "completo"
       },
       {
@@ -5710,7 +5684,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 219,
+        "total_estimado": 217,
         "estado": "completo"
       },
       {
@@ -5718,7 +5692,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 220,
+        "total_estimado": 218,
         "estado": "completo"
       },
       {
@@ -5726,7 +5700,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 220,
+        "total_estimado": 218,
         "estado": "completo"
       },
       {
@@ -5734,7 +5708,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 221,
+        "total_estimado": 219,
         "estado": "completo"
       },
       {
@@ -5742,7 +5716,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 222,
+        "total_estimado": 220,
         "estado": "completo"
       },
       {
@@ -5750,7 +5724,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 223,
+        "total_estimado": 221,
         "estado": "completo"
       },
       {
@@ -5758,7 +5732,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5766,7 +5740,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5774,7 +5748,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5782,7 +5756,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5790,7 +5764,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5798,7 +5772,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -5806,7 +5780,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -5814,7 +5788,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -5822,7 +5796,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -5830,7 +5804,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5838,7 +5812,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5846,7 +5820,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5854,7 +5828,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5862,7 +5836,7 @@
         "ganados": 1,
         "perdidos": 1,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5870,7 +5844,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5878,7 +5852,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5886,7 +5860,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5894,7 +5868,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5902,7 +5876,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5910,7 +5884,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 224,
+        "total_estimado": 222,
         "estado": "completo"
       },
       {
@@ -5918,7 +5892,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -5926,7 +5900,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -5934,7 +5908,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -5942,7 +5916,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -5950,7 +5924,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5958,7 +5932,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5966,7 +5940,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5974,7 +5948,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5982,7 +5956,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5990,7 +5964,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -5998,7 +5972,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6006,7 +5980,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6014,7 +5988,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6022,7 +5996,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6030,7 +6004,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6038,7 +6012,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6046,7 +6020,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6054,7 +6028,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6062,7 +6036,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6070,7 +6044,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6078,7 +6052,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6086,7 +6060,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6094,7 +6068,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6102,7 +6076,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 225,
+        "total_estimado": 223,
         "estado": "completo"
       },
       {
@@ -6110,7 +6084,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6118,7 +6092,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6126,7 +6100,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6134,7 +6108,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 226,
+        "total_estimado": 224,
         "estado": "completo"
       },
       {
@@ -6142,7 +6116,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6150,7 +6124,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6158,7 +6132,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6166,7 +6140,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6174,7 +6148,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6182,7 +6156,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6190,7 +6164,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6198,7 +6172,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6206,7 +6180,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6214,7 +6188,7 @@
         "ganados": 8,
         "perdidos": 0,
         "neto": 8,
-        "total_estimado": 227,
+        "total_estimado": 225,
         "estado": "completo"
       },
       {
@@ -6222,7 +6196,7 @@
         "ganados": 5,
         "perdidos": 0,
         "neto": 5,
-        "total_estimado": 235,
+        "total_estimado": 233,
         "estado": "completo"
       },
       {
@@ -6230,7 +6204,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 240,
+        "total_estimado": 238,
         "estado": "completo"
       },
       {
@@ -6238,7 +6212,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 242,
+        "total_estimado": 240,
         "estado": "completo"
       },
       {
@@ -6246,7 +6220,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 245,
+        "total_estimado": 243,
         "estado": "completo"
       },
       {
@@ -6254,7 +6228,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 247,
+        "total_estimado": 245,
         "estado": "completo"
       },
       {
@@ -6262,7 +6236,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 247,
+        "total_estimado": 245,
         "estado": "completo"
       },
       {
@@ -6270,7 +6244,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 247,
+        "total_estimado": 245,
         "estado": "completo"
       },
       {
@@ -6278,7 +6252,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 247,
+        "total_estimado": 245,
         "estado": "completo"
       },
       {
@@ -6286,7 +6260,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 246,
+        "total_estimado": 244,
         "estado": "completo"
       },
       {
@@ -6294,7 +6268,7 @@
         "ganados": 10,
         "perdidos": 0,
         "neto": 10,
-        "total_estimado": 248,
+        "total_estimado": 246,
         "estado": "completo"
       },
       {
@@ -6302,7 +6276,7 @@
         "ganados": 9,
         "perdidos": 0,
         "neto": 9,
-        "total_estimado": 258,
+        "total_estimado": 256,
         "estado": "completo"
       },
       {
@@ -6310,7 +6284,7 @@
         "ganados": 6,
         "perdidos": 0,
         "neto": 6,
-        "total_estimado": 267,
+        "total_estimado": 265,
         "estado": "completo"
       },
       {
@@ -6318,7 +6292,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 273,
+        "total_estimado": 271,
         "estado": "completo"
       },
       {
@@ -6326,7 +6300,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 274,
+        "total_estimado": 272,
         "estado": "completo"
       },
       {
@@ -6334,7 +6308,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 275,
+        "total_estimado": 273,
         "estado": "completo"
       },
       {
@@ -6342,7 +6316,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 278,
+        "total_estimado": 276,
         "estado": "completo"
       },
       {
@@ -6350,7 +6324,7 @@
         "ganados": 33,
         "perdidos": 1,
         "neto": 32,
-        "total_estimado": 280,
+        "total_estimado": 278,
         "estado": "completo"
       },
       {
@@ -6358,7 +6332,7 @@
         "ganados": 43,
         "perdidos": 0,
         "neto": 43,
-        "total_estimado": 312,
+        "total_estimado": 310,
         "estado": "completo"
       },
       {
@@ -6366,7 +6340,7 @@
         "ganados": 29,
         "perdidos": 1,
         "neto": 28,
-        "total_estimado": 355,
+        "total_estimado": 353,
         "estado": "completo"
       },
       {
@@ -6374,7 +6348,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 383,
+        "total_estimado": 381,
         "estado": "completo"
       },
       {
@@ -6382,7 +6356,7 @@
         "ganados": 8,
         "perdidos": 1,
         "neto": 7,
-        "total_estimado": 383,
+        "total_estimado": 381,
         "estado": "completo"
       },
       {
@@ -6390,7 +6364,7 @@
         "ganados": 4,
         "perdidos": 0,
         "neto": 4,
-        "total_estimado": 390,
+        "total_estimado": 388,
         "estado": "completo"
       },
       {
@@ -6398,7 +6372,7 @@
         "ganados": 4,
         "perdidos": 0,
         "neto": 4,
-        "total_estimado": 394,
+        "total_estimado": 392,
         "estado": "completo"
       },
       {
@@ -6406,7 +6380,7 @@
         "ganados": 12,
         "perdidos": 1,
         "neto": 11,
-        "total_estimado": 398,
+        "total_estimado": 396,
         "estado": "completo"
       },
       {
@@ -6414,7 +6388,7 @@
         "ganados": 12,
         "perdidos": 0,
         "neto": 12,
-        "total_estimado": 409,
+        "total_estimado": 407,
         "estado": "completo"
       },
       {
@@ -6422,7 +6396,7 @@
         "ganados": 8,
         "perdidos": 1,
         "neto": 7,
-        "total_estimado": 421,
+        "total_estimado": 419,
         "estado": "completo"
       },
       {
@@ -6430,7 +6404,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 428,
+        "total_estimado": 426,
         "estado": "completo"
       },
       {
@@ -6438,7 +6412,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 428,
+        "total_estimado": 426,
         "estado": "completo"
       },
       {
@@ -6446,7 +6420,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 429,
+        "total_estimado": 427,
         "estado": "completo"
       },
       {
@@ -6454,7 +6428,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 429,
+        "total_estimado": 427,
         "estado": "completo"
       },
       {
@@ -6462,7 +6436,7 @@
         "ganados": 8,
         "perdidos": 0,
         "neto": 8,
-        "total_estimado": 430,
+        "total_estimado": 428,
         "estado": "completo"
       },
       {
@@ -6470,7 +6444,7 @@
         "ganados": 9,
         "perdidos": 0,
         "neto": 9,
-        "total_estimado": 438,
+        "total_estimado": 436,
         "estado": "completo"
       },
       {
@@ -6478,7 +6452,7 @@
         "ganados": 7,
         "perdidos": 1,
         "neto": 6,
-        "total_estimado": 447,
+        "total_estimado": 445,
         "estado": "completo"
       },
       {
@@ -6486,7 +6460,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 453,
+        "total_estimado": 451,
         "estado": "completo"
       },
       {
@@ -6494,7 +6468,7 @@
         "ganados": 7,
         "perdidos": 0,
         "neto": 7,
-        "total_estimado": 456,
+        "total_estimado": 454,
         "estado": "completo"
       },
       {
@@ -6502,7 +6476,7 @@
         "ganados": 6,
         "perdidos": 1,
         "neto": 5,
-        "total_estimado": 463,
+        "total_estimado": 461,
         "estado": "completo"
       },
       {
@@ -6510,7 +6484,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 468,
+        "total_estimado": 466,
         "estado": "completo"
       },
       {
@@ -6518,7 +6492,7 @@
         "ganados": 3,
         "perdidos": 1,
         "neto": 2,
-        "total_estimado": 469,
+        "total_estimado": 467,
         "estado": "completo"
       },
       {
@@ -6526,7 +6500,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 471,
+        "total_estimado": 469,
         "estado": "completo"
       },
       {
@@ -6534,7 +6508,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 472,
+        "total_estimado": 470,
         "estado": "completo"
       },
       {
@@ -6542,7 +6516,7 @@
         "ganados": 0,
         "perdidos": 2,
         "neto": -2,
-        "total_estimado": 472,
+        "total_estimado": 470,
         "estado": "completo"
       },
       {
@@ -6550,7 +6524,7 @@
         "ganados": 15,
         "perdidos": 0,
         "neto": 15,
-        "total_estimado": 470,
+        "total_estimado": 468,
         "estado": "completo"
       },
       {
@@ -6558,7 +6532,7 @@
         "ganados": 8,
         "perdidos": 0,
         "neto": 8,
-        "total_estimado": 485,
+        "total_estimado": 483,
         "estado": "completo"
       },
       {
@@ -6566,7 +6540,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 493,
+        "total_estimado": 491,
         "estado": "completo"
       },
       {
@@ -6574,7 +6548,7 @@
         "ganados": 5,
         "perdidos": 0,
         "neto": 5,
-        "total_estimado": 492,
+        "total_estimado": 490,
         "estado": "completo"
       },
       {
@@ -6582,7 +6556,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 497,
+        "total_estimado": 495,
         "estado": "completo"
       },
       {
@@ -6590,7 +6564,7 @@
         "ganados": 2,
         "perdidos": 1,
         "neto": 1,
-        "total_estimado": 498,
+        "total_estimado": 496,
         "estado": "completo"
       },
       {
@@ -6598,7 +6572,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 499,
+        "total_estimado": 497,
         "estado": "completo"
       },
       {
@@ -6606,7 +6580,7 @@
         "ganados": 1,
         "perdidos": 2,
         "neto": -1,
-        "total_estimado": 500,
+        "total_estimado": 498,
         "estado": "completo"
       },
       {
@@ -6614,7 +6588,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 499,
+        "total_estimado": 497,
         "estado": "completo"
       },
       {
@@ -6622,7 +6596,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 499,
+        "total_estimado": 497,
         "estado": "completo"
       },
       {
@@ -6630,7 +6604,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 499,
+        "total_estimado": 497,
         "estado": "completo"
       },
       {
@@ -6638,7 +6612,7 @@
         "ganados": 6,
         "perdidos": 0,
         "neto": 6,
-        "total_estimado": 501,
+        "total_estimado": 499,
         "estado": "completo"
       },
       {
@@ -6646,7 +6620,7 @@
         "ganados": 3,
         "perdidos": 1,
         "neto": 2,
-        "total_estimado": 507,
+        "total_estimado": 505,
         "estado": "completo"
       },
       {
@@ -6654,7 +6628,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 509,
+        "total_estimado": 507,
         "estado": "completo"
       },
       {
@@ -6662,7 +6636,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 511,
+        "total_estimado": 509,
         "estado": "completo"
       },
       {
@@ -6670,7 +6644,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 511,
+        "total_estimado": 509,
         "estado": "completo"
       },
       {
@@ -6678,7 +6652,7 @@
         "ganados": 0,
         "perdidos": 2,
         "neto": -2,
-        "total_estimado": 512,
+        "total_estimado": 510,
         "estado": "completo"
       },
       {
@@ -6686,7 +6660,7 @@
         "ganados": 4,
         "perdidos": 0,
         "neto": 4,
-        "total_estimado": 510,
+        "total_estimado": 508,
         "estado": "completo"
       },
       {
@@ -6694,7 +6668,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 514,
+        "total_estimado": 512,
         "estado": "completo"
       },
       {
@@ -6702,7 +6676,7 @@
         "ganados": 59,
         "perdidos": 0,
         "neto": 59,
-        "total_estimado": 517,
+        "total_estimado": 515,
         "estado": "completo"
       },
       {
@@ -6710,7 +6684,7 @@
         "ganados": 466,
         "perdidos": 3,
         "neto": 463,
-        "total_estimado": 576,
+        "total_estimado": 574,
         "estado": "completo"
       },
       {
@@ -6718,7 +6692,7 @@
         "ganados": 16,
         "perdidos": 1,
         "neto": 15,
-        "total_estimado": 1039,
+        "total_estimado": 1037,
         "estado": "completo"
       },
       {
@@ -6726,7 +6700,7 @@
         "ganados": 2,
         "perdidos": 3,
         "neto": -1,
-        "total_estimado": 1054,
+        "total_estimado": 1052,
         "estado": "completo"
       },
       {
@@ -6734,7 +6708,7 @@
         "ganados": 0,
         "perdidos": 3,
         "neto": -3,
-        "total_estimado": 1053,
+        "total_estimado": 1051,
         "estado": "completo"
       },
       {
@@ -6742,7 +6716,7 @@
         "ganados": 2,
         "perdidos": 4,
         "neto": -2,
-        "total_estimado": 1050,
+        "total_estimado": 1048,
         "estado": "completo"
       },
       {
@@ -6750,7 +6724,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 1048,
+        "total_estimado": 1046,
         "estado": "completo"
       },
       {
@@ -6758,7 +6732,7 @@
         "ganados": 2,
         "perdidos": 2,
         "neto": 0,
-        "total_estimado": 1047,
+        "total_estimado": 1045,
         "estado": "completo"
       },
       {
@@ -6766,7 +6740,7 @@
         "ganados": 2,
         "perdidos": 2,
         "neto": 0,
-        "total_estimado": 1047,
+        "total_estimado": 1045,
         "estado": "completo"
       },
       {
@@ -6774,7 +6748,7 @@
         "ganados": 0,
         "perdidos": 2,
         "neto": -2,
-        "total_estimado": 1047,
+        "total_estimado": 1045,
         "estado": "completo"
       },
       {
@@ -6782,7 +6756,7 @@
         "ganados": 3,
         "perdidos": 0,
         "neto": 3,
-        "total_estimado": 1045,
+        "total_estimado": 1043,
         "estado": "completo"
       },
       {
@@ -6790,7 +6764,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 1048,
+        "total_estimado": 1046,
         "estado": "completo"
       },
       {
@@ -6798,7 +6772,7 @@
         "ganados": 0,
         "perdidos": 0,
         "neto": 0,
-        "total_estimado": 1047,
+        "total_estimado": 1045,
         "estado": "completo"
       },
       {
@@ -6806,7 +6780,7 @@
         "ganados": 4,
         "perdidos": 0,
         "neto": 4,
-        "total_estimado": 1047,
+        "total_estimado": 1045,
         "estado": "completo"
       },
       {
@@ -6814,7 +6788,7 @@
         "ganados": 0,
         "perdidos": 2,
         "neto": -2,
-        "total_estimado": 1051,
+        "total_estimado": 1049,
         "estado": "completo"
       },
       {
@@ -6822,7 +6796,7 @@
         "ganados": 3,
         "perdidos": 1,
         "neto": 2,
-        "total_estimado": 1049,
+        "total_estimado": 1047,
         "estado": "completo"
       },
       {
@@ -6830,7 +6804,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 1051,
+        "total_estimado": 1049,
         "estado": "completo"
       },
       {
@@ -6838,7 +6812,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 1052,
+        "total_estimado": 1050,
         "estado": "completo"
       },
       {
@@ -6846,7 +6820,7 @@
         "ganados": 10,
         "perdidos": 0,
         "neto": 10,
-        "total_estimado": 1053,
+        "total_estimado": 1051,
         "estado": "completo"
       },
       {
@@ -6854,7 +6828,7 @@
         "ganados": 6,
         "perdidos": 1,
         "neto": 5,
-        "total_estimado": 1063,
+        "total_estimado": 1061,
         "estado": "completo"
       },
       {
@@ -6862,7 +6836,7 @@
         "ganados": 29,
         "perdidos": 0,
         "neto": 29,
-        "total_estimado": 1068,
+        "total_estimado": 1066,
         "estado": "completo"
       },
       {
@@ -6870,7 +6844,7 @@
         "ganados": 22,
         "perdidos": 2,
         "neto": 20,
-        "total_estimado": 1097,
+        "total_estimado": 1095,
         "estado": "completo"
       },
       {
@@ -6878,7 +6852,7 @@
         "ganados": 18,
         "perdidos": 1,
         "neto": 17,
-        "total_estimado": 1117,
+        "total_estimado": 1115,
         "estado": "completo"
       },
       {
@@ -6886,7 +6860,7 @@
         "ganados": 1,
         "perdidos": 4,
         "neto": -3,
-        "total_estimado": 1134,
+        "total_estimado": 1132,
         "estado": "completo"
       },
       {
@@ -6894,7 +6868,7 @@
         "ganados": 6,
         "perdidos": 1,
         "neto": 5,
-        "total_estimado": 1131,
+        "total_estimado": 1129,
         "estado": "completo"
       },
       {
@@ -6902,7 +6876,7 @@
         "ganados": 2,
         "perdidos": 0,
         "neto": 2,
-        "total_estimado": 1136,
+        "total_estimado": 1134,
         "estado": "completo"
       },
       {
@@ -6910,7 +6884,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 1138,
+        "total_estimado": 1136,
         "estado": "completo"
       },
       {
@@ -6918,7 +6892,7 @@
         "ganados": 1,
         "perdidos": 0,
         "neto": 1,
-        "total_estimado": 1137,
+        "total_estimado": 1135,
         "estado": "completo"
       },
       {
@@ -6926,7 +6900,7 @@
         "ganados": 2,
         "perdidos": 1,
         "neto": 1,
-        "total_estimado": 1138,
+        "total_estimado": 1136,
         "estado": "completo"
       },
       {
@@ -6934,7 +6908,7 @@
         "ganados": 2,
         "perdidos": 1,
         "neto": 1,
-        "total_estimado": 1139,
+        "total_estimado": 1137,
         "estado": "completo"
       },
       {
@@ -6942,7 +6916,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 1140,
+        "total_estimado": 1138,
         "estado": "completo"
       },
       {
@@ -6950,7 +6924,7 @@
         "ganados": 2,
         "perdidos": 1,
         "neto": 1,
-        "total_estimado": 1139,
+        "total_estimado": 1137,
         "estado": "completo"
       },
       {
@@ -6958,7 +6932,7 @@
         "ganados": 1,
         "perdidos": 1,
         "neto": 0,
-        "total_estimado": 1140,
+        "total_estimado": 1138,
         "estado": "completo"
       },
       {
@@ -6966,7 +6940,7 @@
         "ganados": 1,
         "perdidos": 2,
         "neto": -1,
-        "total_estimado": 1140,
+        "total_estimado": 1138,
         "estado": "completo"
       },
       {
@@ -6974,7 +6948,7 @@
         "ganados": 0,
         "perdidos": 1,
         "neto": -1,
-        "total_estimado": 1139,
+        "total_estimado": 1137,
         "estado": "completo"
       },
       {
@@ -6982,15 +6956,23 @@
         "ganados": 4,
         "perdidos": 0,
         "neto": 4,
-        "total_estimado": 1138,
-        "estado": "provisional"
+        "total_estimado": 1136,
+        "estado": "completo"
       },
       {
         "fecha": "2026-11-16",
         "ganados": 1,
         "perdidos": 1,
         "neto": 0,
-        "total_estimado": 1142,
+        "total_estimado": 1140,
+        "estado": "provisional"
+      },
+      {
+        "fecha": "2026-11-17",
+        "ganados": 2,
+        "perdidos": 0,
+        "neto": 2,
+        "total_estimado": 1140,
         "estado": "provisional"
       }
     ]
